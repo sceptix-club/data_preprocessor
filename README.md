@@ -1,8 +1,6 @@
 # Data Pre-processor
 Unstructured to structured data.
 
----
-
 ## How to Contribute
 
 To contribute to our documentation:
@@ -23,5 +21,3 @@ To contribute to our documentation:
 4. **Virtual Evnvironment:** Create necessary virtual environtment or docker container; prefer if you look into docker and stuff.
 5. Use Git CLI to add your files and track it.
 6. Once pushed to your branch give a pull request.
-
----
