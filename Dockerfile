@@ -9,7 +9,6 @@ COPY requirements.txt /app/
 
 # Install the required dependencies. This layer will be cached as long as requirements.txt doesn't change.
 RUN pip install -r requirements.txt
-RUN pip install --upgrade 'transformers==4.24.0'
 
 # Now copy the rest of your application files (this happens after dependencies are installed)
 COPY . /app/
