@@ -1,6 +1,6 @@
 from pypdf import PdfReader
 
-reader = PdfReader("C:/Users/HP/OneDrive/Desktop/dataprocess/data_preprocessor/data/acetone-acs-l (1).pdf")
+reader = PdfReader("C:/Users/HP/OneDrive/Desktop/data_preprocessor/data/acetone-acs-l (1).pdf")
 
 # Print the number of pages in the PDF
 print(f"There are {len(reader.pages)} Pages")
