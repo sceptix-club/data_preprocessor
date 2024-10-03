@@ -7,20 +7,17 @@ TEXT=0
 pdfpath:str="data/acetone-acs-l (1).pdf"
 outpath:str="output.json"
 
-def getdata(content):
-    jsondict={}
-    for i in content:
-        jsondict[str(i[1])]=i[0]
-    return jsondict
 
 def writejson(content):
-    jsoncontent=json.dumps(getdata(content))
+    jsoncontent=json.dumps(content)
     with open(outpath,"w") as fp:
         fp.write(jsoncontent)
 
 def getweight(lines)->int:
     weight:int=int(lines['size'])
     if 'Bold' in lines['font']:
+        weight+=1
+    if lines['text'].rstrip()[-1]==":":
         weight+=1
     return weight
 
@@ -41,62 +38,69 @@ def scrape(filePath):
     return results
 
 #weightarr=scrape(pdfpath)
-weightarr=[("5.1",5),("3",3),("1",2),("3.2",3),("1",1),("5.2",5),("2",2)]
-
-outputdict={}
+weightarr=[("5.1",5),("3",3),("5",5),("3.2",3)]
+#weightarr=scrape(pdfpath)
 weightstack=[]
 index=0
+outdict={}
 
-top=0
-def push(n):
-    weightstack[top]=n
-    top+=1
 
-def pop()->int:
-    top-=1
-    return weightstack.pop()
-
-valuearr=[]
-def setValuearr():
-    global index
-    i=index
-    j=i+1
-    valuearr.append(weightarr[i][TEXT])
-    print("Appended:\t",weightarr[i][TEXT])
-    while (j<len(weightarr) and weightarr[i][WEIGHT]==weightarr[j][WEIGHT]):
-        print("Appended:\t",weightarr[j][TEXT])
-        valuearr.append(weightarr[j][TEXT])
+'''
+def getdict(arr:list):
+    maxindex=0 #index of largest val
+    subarr=[arr[maxindex],[]]
+    i=maxindex+1
+    while(i<len(arr)):
+        if arr[maxindex][WEIGHT]>arr[i][WEIGHT]:
+            subarr[maxindex+1].append(arr[i])
+        if arr[maxindex][WEIGHT]<arr[i][WEIGHT]:
+            maxindex=i
+            subarr.append(arr[maxindex])
+            subarr.append([])
         i+=1
-        j+=1
-    index=j+1
+    return subarr
 
 def getkey():
-    global index
+    global index #index of key
     i=index+1
-    j=i+1
-    if j<len(weightarr):
-        index+=1
-        print("i: ",i,"\tj: ",j,"\tWeight i: ",weightarr[i][WEIGHT],"\tWeight j: ",weightarr[j][WEIGHT])
-        if weightarr[i][WEIGHT]==weightarr[j][WEIGHT]:
-            valuearr.clear()
-            setValuearr()
-            print("Val:\t",valuearr)
-            return valuearr
-        elif weightarr[i][WEIGHT]>weightarr[j][WEIGHT]:
-            return getkey()
-        else:
-            print("Last:\t",weightarr[i][TEXT])
-            return weightarr[i][TEXT]
-    else:
-        print("Out of bounds j=",j)
-        return -1
+    if i>=len(weightarr):
+        return []
+    keyarr=[]
+    while(weightarr[i][WEIGHT]<weightstack[-1]):
+        keyarr.append(weightarr[i])
+        i+=1
+        if i>=len(weightarr):
+            break
+    index=i
+    return getdict(keyarr)
 
-while(True):
-    print("Index: ",index)
-    retvalue=getkey()
-    if retvalue==-1:
-        break
-    print("Output:\t",getkey())
-    index+=1
 
+print("Weightarr: ",weightarr)
+weightstack.append(weightarr[index][WEIGHT])
+while (index<len(weightarr)):
+    i=index
+    outdict[weightarr[i][TEXT]]=getkey()
+print(outdict)
 #writejson(outputdict)
+'''
+
+def getkey(): #returns dictionary (assuming no duplicate weights)
+    global index #index of key
+    i=index
+    j=i+1
+    valdict={}
+    if j>=len(weightarr):
+        index=len(weightarr)
+        return {"Footer": weightarr[-1][TEXT]}
+    elif weightarr[i][WEIGHT]>weightarr[j][WEIGHT]:
+        index=j+1
+        return {weightarr[j][TEXT]:getkey()}
+    else:index+=1
+
+
+while (index<len(weightarr)):
+    keyindex=index
+    outdict[weightarr[keyindex][TEXT]]=getkey()
+
+print(outdict)
+writejson(outdict)
