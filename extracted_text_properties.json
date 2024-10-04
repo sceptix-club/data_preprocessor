@@ -1,0 +1,7032 @@
+[
+    {
+        "page": 1,
+        "position": [
+            229.9090118408203,
+            106.48806762695312
+        ],
+        "text": "SAFETY DATA SHEET",
+        "size": 15.988988876342773,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            53.931739807128906,
+            128.63558959960938
+        ],
+        "text": "Creation Date  ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            117.35147094726562,
+            128.63558959960938
+        ],
+        "text": "28-Apr-2009",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 1,
+        "position": [
+            254.67767333984375,
+            128.63558959960938
+        ],
+        "text": "Revision Date  ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            319.09613037109375,
+            128.63558959960938
+        ],
+        "text": "13-Oct-2023",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 1,
+        "position": [
+            491.0784606933594,
+            128.63558959960938
+        ],
+        "text": "Revision Number  ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            569.9785766601562,
+            128.63558959960938
+        ],
+        "text": "9",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 1,
+        "position": [
+            262.66754150390625,
+            195.2781219482422
+        ],
+        "text": "1. Identification",
+        "size": 11.991741180419922,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            53.931739807128906,
+            210.2264404296875
+        ],
+        "text": "Product Name",
+        "size": 10.992429733276367,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            210.3337860107422,
+            210.2264404296875
+        ],
+        "text": "Acetone",
+        "size": 10.992429733276367,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            53.931739807128906,
+            232.97389221191406
+        ],
+        "text": "Cat No. :",
+        "size": 10.992429733276367,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            210.3337860107422,
+            232.97389221191406
+        ],
+        "text": "A9-4; A9-20; A9-200; A11-1; A11-4; A11-20; A11-200; A11S-4; A13-20;",
+        "size": 10.992429733276367,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            210.3337860107422,
+            245.6224822998047
+        ],
+        "text": "A13-200; A16F-1GAL; A16P-1GAL; A16P-4; A16S-4; A16S-20; A18-1;",
+        "size": 10.992429733276367,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            210.3337860107422,
+            258.27105712890625
+        ],
+        "text": "A18-4; A18-20; A18-20LC; A18-200; A18-200LC; A18-500; A18CU1300;",
+        "size": 10.992429733276367,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            210.3337860107422,
+            270.9196472167969
+        ],
+        "text": "A18FB-19; A18FB-50; A18FB-115; A18FB-200; A18P-4; A18POP-19;",
+        "size": 10.992429733276367,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            210.3337860107422,
+            283.5682373046875
+        ],
+        "text": "A18POPB-50; A18RB-19; A18RB-50; A18RB-115; A18RB-200;",
+        "size": 10.992429733276367,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            210.3337860107422,
+            296.216796875
+        ],
+        "text": "A18RS-28; A18RS-50; A18RS-115; A18RS-200; A18S-4; A18SK-4;",
+        "size": 10.992429733276367,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            210.3337860107422,
+            308.8653869628906
+        ],
+        "text": "A18SS-19; A18SS-28; A18SS-50; A18SS-115; A18SS-200; A19-1;",
+        "size": 10.992429733276367,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            210.3337860107422,
+            321.51397705078125
+        ],
+        "text": "A19-4; A19RS-115; A19RS-200; A40-4; A928-4; A929-1; A929-4;",
+        "size": 10.992429733276367,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            210.3337860107422,
+            334.1625671386719
+        ],
+        "text": "A929-4LC; A929RS-19; A929RS-50; A929RS-200; A929SK-4;",
+        "size": 10.992429733276367,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            210.3337860107422,
+            346.8111267089844
+        ],
+        "text": "A929SS-28; A929SS-50; A929SS-115; A929SS-200; A946-4; A946-4LC;",
+        "size": 10.992429733276367,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            210.3337860107422,
+            359.459716796875
+        ],
+        "text": "A946FB-200; A946RB-19; A946RB-50; A946RB-115; A946RB-200;",
+        "size": 10.992429733276367,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            210.3337860107422,
+            372.1083068847656
+        ],
+        "text": "A949-1; A949-4; A949-4LC; A949CU-50; A949N-119; A949N-219;",
+        "size": 10.992429733276367,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            210.3337860107422,
+            384.75689697265625
+        ],
+        "text": "A949POP-19; A949RS-28; A949RS-50; A949RS-115; A949SK-1;",
+        "size": 10.992429733276367,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            210.3337860107422,
+            397.40545654296875
+        ],
+        "text": "A949SK-4; A949SS-19; A949SS-28; A949SS-50; A949SS-115;",
+        "size": 10.992429733276367,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            210.3337860107422,
+            410.0540466308594
+        ],
+        "text": "A949SS-200; BP2403-1; BP2403-4; BP2403-20; BP2403-RS200;",
+        "size": 10.992429733276367,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            210.3337860107422,
+            422.70263671875
+        ],
+        "text": "BP2404-1; BP2404-4; BP2404-SK1; BP2404-SK4; HC300-1GAL;",
+        "size": 10.992429733276367,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            210.3337860107422,
+            435.3512268066406
+        ],
+        "text": "S70091; 22050131; 22050295; XXA9ET200LI; NC2396838",
+        "size": 10.992429733276367,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            53.931739807128906,
+            456.1988830566406
+        ],
+        "text": "CAS No",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            210.3337860107422,
+            455.94891357421875
+        ],
+        "text": "67-64-1",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 1,
+        "position": [
+            53.931739807128906,
+            466.5477294921875
+        ],
+        "text": "Synonyms",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            210.3337860107422,
+            466.2977600097656
+        ],
+        "text": "2-Propanone; Dimethyl ketone; (Certified ACS, HPLC, OPTIMA, Histological,",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 1,
+        "position": [
+            210.3337860107422,
+            476.6465759277344
+        ],
+        "text": "Spectranalyzed, NF/FCC/EP, Pesticide, Electronic, GC Resolv, SAFE-COTE)",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 1,
+        "position": [
+            53.931739807128906,
+            497.3442687988281
+        ],
+        "text": "Recommended Use",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            210.3337860107422,
+            497.09429931640625
+        ],
+        "text": "Laboratory chemicals.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 1,
+        "position": [
+            53.931739807128906,
+            507.693115234375
+        ],
+        "text": "Uses advised against",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            210.3337860107422,
+            507.4431457519531
+        ],
+        "text": "Food, drug, pesticide or biocidal product use.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 1,
+        "position": [
+            53.931739807128906,
+            535.0400390625
+        ],
+        "text": "Details of the supplier of the safety data sheet ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            229.7092742919922,
+            686.2230834960938
+        ],
+        "text": "2. Hazard(s) identification",
+        "size": 11.991741180419922,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            53.931739807128906,
+            699.2716674804688
+        ],
+        "text": "Classification ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            53.931739807128906,
+            555.4877319335938
+        ],
+        "text": "Company ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            53.931739807128906,
+            565.5866088867188
+        ],
+        "text": "Fisher Scientific Company",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 1,
+        "position": [
+            53.931739807128906,
+            575.9354858398438
+        ],
+        "text": "One Reagent Lane",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 1,
+        "position": [
+            53.931739807128906,
+            586.2843017578125
+        ],
+        "text": "Fair Lawn, NJ 07410",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 1,
+        "position": [
+            53.931739807128906,
+            596.6331176757812
+        ],
+        "text": "Tel: (201) 796-7100",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 1,
+        "position": [
+            53.931739807128906,
+            627.6796875
+        ],
+        "text": "Emergency Telephone Number ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 1,
+        "position": [
+            53.931739807128906,
+            638.7284545898438
+        ],
+        "text": "CHEMTREC",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 1,
+        "position": [
+            104.86727142333984,
+            638.7284545898438
+        ],
+        "text": "\u00d2",
+        "size": 8.993805885314941,
+        "font_flags": "serifed, proportional"
+    },
+    {
+        "page": 1,
+        "position": [
+            111.95829772949219,
+            638.7284545898438
+        ],
+        "text": ", Inside the USA: 800-424-9300",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 1,
+        "position": [
+            53.931739807128906,
+            650.0771484375
+        ],
+        "text": "CHEMTREC",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 1,
+        "position": [
+            104.86727142333984,
+            650.0771484375
+        ],
+        "text": "\u00d2",
+        "size": 8.993805885314941,
+        "font_flags": "serifed, proportional"
+    },
+    {
+        "page": 1,
+        "position": [
+            111.95829772949219,
+            650.0771484375
+        ],
+        "text": ", Outside the USA: 001-703-527-3887",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 1,
+        "position": [
+            53.931739807128906,
+            722.0191040039062
+        ],
+        "text": "______________________________________________________________________________________________",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 1,
+        "position": [
+            290.1327819824219,
+            743.9166259765625
+        ],
+        "text": "Page  1 / 9",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            56.793636322021484
+        ],
+        "text": "______________________________________________________________________________________________",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            45.59489059448242
+        ],
+        "text": "Acetone",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 2,
+        "position": [
+            460.6669616699219,
+            44.644996643066406
+        ],
+        "text": "Revision Date  ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 2,
+        "position": [
+            525.08544921875,
+            44.644996643066406
+        ],
+        "text": "13-Oct-2023",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            77.49131774902344
+        ],
+        "text": "This chemical is considered hazardous by the 2012 OSHA Hazard Communication Standard (29 CFR 1910.1200)",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            199.32766723632812
+        ],
+        "text": "Label Elements  ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            219.77537536621094
+        ],
+        "text": "Signal Word",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            229.87423706054688
+        ],
+        "text": "Danger",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            250.57192993164062
+        ],
+        "text": "Hazard Statements",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            260.6707763671875
+        ],
+        "text": "Highly flammable liquid and vapor",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            271.0196228027344
+        ],
+        "text": "Causes serious eye irritation",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            281.36846923828125
+        ],
+        "text": "May cause drowsiness or dizziness",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            291.7173156738281
+        ],
+        "text": "May cause damage to organs through prolonged or repeated exposure",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            404.4046936035156
+        ],
+        "text": "Precautionary Statements",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            414.7535400390625
+        ],
+        "text": "Prevention",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            424.8523864746094
+        ],
+        "text": "Wash face, hands and any exposed skin thoroughly after handling",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            435.20123291015625
+        ],
+        "text": "Do not breathe dust/fume/gas/mist/vapors/spray",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            445.5500793457031
+        ],
+        "text": "Use only outdoors or in a well-ventilated area",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            455.89892578125
+        ],
+        "text": "Keep away from heat/sparks/open flames/hot surfaces. - No smoking",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            466.24774169921875
+        ],
+        "text": "Keep container tightly closed",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            476.5965881347656
+        ],
+        "text": "Ground/bond container and receiving equipment",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            486.9454345703125
+        ],
+        "text": "Use explosion-proof electrical/ventilating/lighting equipment",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            497.2942810058594
+        ],
+        "text": "Use only non-sparking tools",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            507.64312744140625
+        ],
+        "text": "Take precautionary measures against static discharge",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            517.991943359375
+        ],
+        "text": "Wear protective gloves/protective clothing/eye protection/face protection",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            528.3408203125
+        ],
+        "text": "Keep cool",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            538.9396362304688
+        ],
+        "text": "Response",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            549.0384521484375
+        ],
+        "text": "Get medical attention/advice if you feel unwell",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            559.6372680664062
+        ],
+        "text": "Inhalation",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            569.7361450195312
+        ],
+        "text": "IF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            580.0850219726562
+        ],
+        "text": "Call a POISON CENTER or doctor/physician if you feel unwell",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            590.683837890625
+        ],
+        "text": "Skin",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            600.7826538085938
+        ],
+        "text": "IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            611.3814697265625
+        ],
+        "text": "Eyes",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            621.4803466796875
+        ],
+        "text": "IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            631.8292236328125
+        ],
+        "text": "If eye irritation persists: Get medical advice/attention",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            642.4280395507812
+        ],
+        "text": "Fire",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            652.52685546875
+        ],
+        "text": "In case of fire: Use CO2, dry chemical, or foam for extinction",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            663.1256713867188
+        ],
+        "text": "Storage",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            673.2245483398438
+        ],
+        "text": "Store in a well-ventilated place. Keep container tightly closed",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            683.5734252929688
+        ],
+        "text": "Store locked up",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            694.1722412109375
+        ],
+        "text": "Disposal",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 2,
+        "position": [
+            54.68079376220703,
+            129.8854522705078
+        ],
+        "text": "Serious Eye Damage/Eye Irritation",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            314.6018371582031,
+            129.8854522705078
+        ],
+        "text": "Category 2",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            54.68079376220703,
+            140.23428344726562
+        ],
+        "text": "Specific target organ toxicity (single exposure)",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            314.6018371582031,
+            140.23428344726562
+        ],
+        "text": "Category 3",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            54.68079376220703,
+            150.5831298828125
+        ],
+        "text": "Target Organs -  Central nervous system (CNS).",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            54.68079376220703,
+            160.9319610595703
+        ],
+        "text": "Specific target organ toxicity - (repeated exposure)",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            314.6018371582031,
+            160.9319610595703
+        ],
+        "text": "Category 2",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            54.68079376220703,
+            119.53660583496094
+        ],
+        "text": "Flammable liquids",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            314.6018371582031,
+            119.53660583496094
+        ],
+        "text": "Category 2",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            53.931739807128906,
+            722.0191040039062
+        ],
+        "text": "______________________________________________________________________________________________",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 2,
+        "position": [
+            290.1327819824219,
+            743.9166259765625
+        ],
+        "text": "Page  2 / 9",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            53.931739807128906,
+            56.793636322021484
+        ],
+        "text": "______________________________________________________________________________________________",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            53.931739807128906,
+            45.59489059448242
+        ],
+        "text": "Acetone",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            460.6669616699219,
+            44.644996643066406
+        ],
+        "text": "Revision Date  ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            525.08544921875,
+            44.644996643066406
+        ],
+        "text": "13-Oct-2023",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            53.931739807128906,
+            77.49131774902344
+        ],
+        "text": "Dispose of contents/container to an approved waste disposal plant",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            53.931739807128906,
+            88.09012603759766
+        ],
+        "text": "Hazards not otherwise classified (HNOC)  ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            53.931739807128906,
+            98.18899536132812
+        ],
+        "text": "Repeated exposure may cause skin dryness or cracking",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            176.72633361816406,
+            143.48391723632812
+        ],
+        "text": "3. Composition/Information on Ingredients",
+        "size": 11.991741180419922,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            133.2313690185547,
+            167.38124084472656
+        ],
+        "text": "Component",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            323.94000244140625,
+            167.38124084472656
+        ],
+        "text": "CAS No",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            476.89642333984375,
+            167.38124084472656
+        ],
+        "text": "Weight %",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            141.7206268310547,
+            178.2300262451172
+        ],
+        "text": "Acetone",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            325.18841552734375,
+            178.2300262451172
+        ],
+        "text": "67-64-1",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            489.4305419921875,
+            178.2300262451172
+        ],
+        "text": ">95",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            245.6391143798828,
+            204.92703247070312
+        ],
+        "text": "4. First-aid measures",
+        "size": 11.991741180419922,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            53.931739807128906,
+            228.07444763183594
+        ],
+        "text": "General Advice",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            210.3337860107422,
+            227.82447814941406
+        ],
+        "text": "If symptoms persist, call a physician.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            53.931739807128906,
+            248.52215576171875
+        ],
+        "text": "Eye Contact",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            210.3337860107422,
+            248.27218627929688
+        ],
+        "text": "Rinse immediately with plenty of water, also under the eyelids, for at least 15 minutes. Get",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            210.3337860107422,
+            258.62103271484375
+        ],
+        "text": "medical attention.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            53.931739807128906,
+            279.3186950683594
+        ],
+        "text": "Skin Contact",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            210.3337860107422,
+            279.0687255859375
+        ],
+        "text": "Wash off immediately with plenty of water for at least 15 minutes. If skin irritation persists,",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            210.3337860107422,
+            289.4175720214844
+        ],
+        "text": "call a physician.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            53.931739807128906,
+            310.1152648925781
+        ],
+        "text": "Inhalation",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            210.3337860107422,
+            309.8652648925781
+        ],
+        "text": "Remove to fresh air. If not breathing, give artificial respiration. Get medical attention if",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            210.3337860107422,
+            320.214111328125
+        ],
+        "text": "symptoms occur.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            53.931739807128906,
+            340.91180419921875
+        ],
+        "text": "Ingestion",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            210.3337860107422,
+            340.6618347167969
+        ],
+        "text": "Clean mouth with water and drink afterwards plenty of water.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            53.931739807128906,
+            361.3594970703125
+        ],
+        "text": "Most important symptoms and",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            53.931739807128906,
+            371.7083435058594
+        ],
+        "text": "effects",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            210.3337860107422,
+            361.1095275878906
+        ],
+        "text": "Difficulty in breathing.  Symptoms of overexposure may be headache, dizziness, tiredness,",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            210.3337860107422,
+            371.4583740234375
+        ],
+        "text": "nausea and vomiting: May cause pulmonary edema",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            53.931739807128906,
+            382.05718994140625
+        ],
+        "text": "Notes to Physician",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            210.3337860107422,
+            381.8072204589844
+        ],
+        "text": "Treat symptomatically",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            233.00509643554688,
+            407.8042907714844
+        ],
+        "text": "5. Fire-fighting measures",
+        "size": 11.991741180419922,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            53.931739807128906,
+            437.8509216308594
+        ],
+        "text": "Suitable Extinguishing Media",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            210.3337860107422,
+            437.6009521484375
+        ],
+        "text": "Water spray, carbon dioxide (CO2), dry chemical, alcohol-resistant foam. Water mist may",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            210.3337860107422,
+            447.9497985839844
+        ],
+        "text": "be used to cool closed containers.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            53.931739807128906,
+            468.6474914550781
+        ],
+        "text": "Unsuitable Extinguishing Media",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            210.3337860107422,
+            468.39752197265625
+        ],
+        "text": "Water may be ineffective",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            69.56195831298828,
+            489.0951843261719
+        ],
+        "text": "Flash Point",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            210.2838592529297,
+            488.84521484375
+        ],
+        "text": " -20  \u00b0C  /  -4  \u00b0F",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            69.56195831298828,
+            509.54290771484375
+        ],
+        "text": "Method -",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            210.2838592529297,
+            509.2929382324219
+        ],
+        "text": "CC (closed cup)",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            53.931739807128906,
+            529.9906005859375
+        ],
+        "text": "Autoignition Temperature",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            210.3337860107422,
+            529.7406616210938
+        ],
+        "text": " 465  \u00b0C  /  869  \u00b0F",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            53.931739807128906,
+            550.4382934570312
+        ],
+        "text": "Explosion Limits",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            69.56195831298828,
+            560.7871704101562
+        ],
+        "text": "Upper",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            210.2838592529297,
+            560.5371704101562
+        ],
+        "text": "12.8 vol %",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            69.56195831298828,
+            571.135986328125
+        ],
+        "text": "Lower",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            210.2838592529297,
+            570.8860473632812
+        ],
+        "text": "2.5 vol %",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            53.931739807128906,
+            581.48486328125
+        ],
+        "text": "Oxidizing Properties",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            210.3337860107422,
+            581.23486328125
+        ],
+        "text": "Not oxidising",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            69.56195831298828,
+            601.9325561523438
+        ],
+        "text": "Sensitivity to Mechanical Impact",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            210.2838592529297,
+            601.6825561523438
+        ],
+        "text": "No information available",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            69.56195831298828,
+            612.2813720703125
+        ],
+        "text": "Sensitivity to Static Discharge",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            210.2838592529297,
+            612.0314331054688
+        ],
+        "text": "No information available",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            53.931739807128906,
+            632.7291259765625
+        ],
+        "text": "Specific Hazards Arising from the Chemical",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            53.931739807128906,
+            642.8279418945312
+        ],
+        "text": "Flammable. Risk of ignition. Containers may explode when heated. Vapors may form explosive mixtures with air. Vapors may",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            53.931739807128906,
+            653.1768188476562
+        ],
+        "text": "travel to source of ignition and flash back.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            53.931739807128906,
+            673.87451171875
+        ],
+        "text": "Hazardous Combustion Products",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            53.931739807128906,
+            683.9733276367188
+        ],
+        "text": "Carbon monoxide (CO). Carbon dioxide (CO",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            231.1074981689453,
+            683.9733276367188
+        ],
+        "text": "2",
+        "size": 5.646111488342285,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            234.25350952148438,
+            683.9733276367188
+        ],
+        "text": "). Formaldehyde. Methanol.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            53.931739807128906,
+            722.0191040039062
+        ],
+        "text": "______________________________________________________________________________________________",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 3,
+        "position": [
+            290.1327819824219,
+            743.9166259765625
+        ],
+        "text": "Page  3 / 9",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 3,
+        "position": [
+            53.931739807128906,
+            694.5721435546875
+        ],
+        "text": "Protective Equipment and Precautions for Firefighters",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            53.931739807128906,
+            56.793636322021484
+        ],
+        "text": "______________________________________________________________________________________________",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            53.931739807128906,
+            45.59489059448242
+        ],
+        "text": "Acetone",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            460.6669616699219,
+            44.644996643066406
+        ],
+        "text": "Revision Date  ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            525.08544921875,
+            44.644996643066406
+        ],
+        "text": "13-Oct-2023",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            53.931739807128906,
+            77.49131774902344
+        ],
+        "text": "As in any fire, wear self-contained breathing apparatus pressure-demand, MSHA/NIOSH (approved or equivalent) and full",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            53.931739807128906,
+            87.84015655517578
+        ],
+        "text": "protective gear.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            53.931739807128906,
+            108.53783416748047
+        ],
+        "text": "NFPA  ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            210.98297119140625,
+            154.98263549804688
+        ],
+        "text": "6. Accidental release measures",
+        "size": 11.991741180419922,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            53.931739807128906,
+            168.0311737060547
+        ],
+        "text": "Personal Precautions",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            210.3337860107422,
+            167.7812042236328
+        ],
+        "text": "Use personal protective equipment as required. Ensure adequate ventilation. Remove all",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            210.3337860107422,
+            178.13003540039062
+        ],
+        "text": "sources of ignition. Take precautionary measures against static discharges.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            53.931739807128906,
+            188.72885131835938
+        ],
+        "text": "Environmental Precautions",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            210.3337860107422,
+            188.4788818359375
+        ],
+        "text": "Should not be released into the environment.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            53.931739807128906,
+            209.1765594482422
+        ],
+        "text": "Methods for Containment and Clean",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            53.931739807128906,
+            219.52540588378906
+        ],
+        "text": "Up",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            210.3337860107422,
+            208.9265899658203
+        ],
+        "text": "Soak up with inert absorbent material. Keep in suitable, closed containers for disposal.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            210.3337860107422,
+            219.2754364013672
+        ],
+        "text": "Remove all sources of ignition. Use spark-proof tools and explosion-proof equipment.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            236.65048217773438,
+            245.27252197265625
+        ],
+        "text": "7. Handling and storage",
+        "size": 11.991741180419922,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            53.931739807128906,
+            258.321044921875
+        ],
+        "text": "Handling",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            210.3337860107422,
+            258.0710754394531
+        ],
+        "text": "Do not get in eyes, on skin, or on clothing. Wear personal protective equipment/face",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            210.3337860107422,
+            268.419921875
+        ],
+        "text": "protection. Ensure adequate ventilation. Avoid ingestion and inhalation. Keep away from",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            210.3337860107422,
+            278.7687683105469
+        ],
+        "text": "open flames, hot surfaces and sources of ignition. Use only non-sparking tools. To avoid",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            210.3337860107422,
+            289.11761474609375
+        ],
+        "text": "ignition of vapors by static electricity discharge, all metal parts of the equipment must be",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            210.3337860107422,
+            299.4664306640625
+        ],
+        "text": "grounded. Take precautionary measures against static discharges.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            53.931739807128906,
+            320.16412353515625
+        ],
+        "text": "Storage.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            210.3337860107422,
+            319.9141540527344
+        ],
+        "text": "Flammables area. Keep containers tightly closed in a dry, cool and well-ventilated place.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            210.3337860107422,
+            330.26300048828125
+        ],
+        "text": "Keep away from heat, sparks and flame.  Incompatible Materials.  Strong oxidizing agents.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            210.3337860107422,
+            340.6118469238281
+        ],
+        "text": "Strong reducing agents. Strong bases. Peroxides. Halogenated compounds. Alkali metals.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            210.3337860107422,
+            350.9606628417969
+        ],
+        "text": "Amines.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            177.02593994140625,
+            376.957763671875
+        ],
+        "text": "8. Exposure controls / personal protection",
+        "size": 11.991741180419922,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            53.931739807128906,
+            390.00628662109375
+        ],
+        "text": "Exposure Guidelines ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            105.21683502197266,
+            118.88668060302734
+        ],
+        "text": "Health",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            116.4526138305664,
+            128.9855499267578
+        ],
+        "text": "2",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            221.8691864013672,
+            118.88668060302734
+        ],
+        "text": "Flammability",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            246.78765869140625,
+            128.9855499267578
+        ],
+        "text": "3",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            358.6960144042969,
+            118.88668060302734
+        ],
+        "text": "Instability",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            377.1226806640625,
+            128.9855499267578
+        ],
+        "text": "0",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            473.5506591796875,
+            118.88668060302734
+        ],
+        "text": "Physical hazards",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            502.46405029296875,
+            128.9855499267578
+        ],
+        "text": "N/A",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            83.7939453125,
+            410.20404052734375
+        ],
+        "text": "Component",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            188.71115112304688,
+            410.20404052734375
+        ],
+        "text": "ACGIH TLV",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            294.0278625488281,
+            410.20404052734375
+        ],
+        "text": "OSHA PEL",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            406.0361022949219,
+            410.20404052734375
+        ],
+        "text": "NIOSH",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            487.18341064453125,
+            410.20404052734375
+        ],
+        "text": "Mexico OEL (TWA)",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            91.38433837890625,
+            419.95294189453125
+        ],
+        "text": "Acetone",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            183.6175994873047,
+            419.95294189453125
+        ],
+        "text": "TWA: 250 ppm",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            182.5189971923828,
+            429.15191650390625
+        ],
+        "text": "STEL: 500 ppm",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            269.4589538574219,
+            419.95294189453125
+        ],
+        "text": "(Vacated) TWA: 750 ppm",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            263.6163635253906,
+            429.15191650390625
+        ],
+        "text": "(Vacated) TWA: 1800 mg/m",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            362.4912109375,
+            426.9521484375
+        ],
+        "text": "3",
+        "size": 4.996558666229248,
+        "font_flags": "superscript, sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            274.9519958496094,
+            438.35089111328125
+        ],
+        "text": "(Vacated) STEL: 2400",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            303.1163635253906,
+            447.5498352050781
+        ],
+        "text": "mg/m",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            323.0411376953125,
+            445.35009765625
+        ],
+        "text": "3",
+        "size": 4.996558666229248,
+        "font_flags": "superscript, sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            266.1131896972656,
+            456.7488098144531
+        ],
+        "text": "(Vacated) STEL: 1000 ppm",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            285.63848876953125,
+            465.9477844238281
+        ],
+        "text": "TWA: 1000 ppm",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            282.04302978515625,
+            475.1467590332031
+        ],
+        "text": "TWA: 2400 mg/m",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            344.1144714355469,
+            472.9469909667969
+        ],
+        "text": "3",
+        "size": 4.996558666229248,
+        "font_flags": "superscript, sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            389.6069030761719,
+            419.95294189453125
+        ],
+        "text": "IDLH: 2500 ppm",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            392.0538024902344,
+            429.15191650390625
+        ],
+        "text": "TWA: 250 ppm",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            388.4583435058594,
+            438.35089111328125
+        ],
+        "text": "TWA: 590 mg/m",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            446.0854187011719,
+            436.151123046875
+        ],
+        "text": "3",
+        "size": 4.996558666229248,
+        "font_flags": "superscript, sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            496.2718811035156,
+            419.95294189453125
+        ],
+        "text": "TWA: 500 ppm",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            495.17327880859375,
+            429.15191650390625
+        ],
+        "text": "STEL: 750 ppm",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            53.931739807128906,
+            502.24371337890625
+        ],
+        "text": "Legend",
+        "size": 7.994494438171387,
+        "font_flags": "italic, sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            53.931739807128906,
+            520.6416625976562
+        ],
+        "text": "ACGIH ",
+        "size": 7.994494438171387,
+        "font_flags": "italic, sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            81.89634704589844,
+            520.6416625976562
+        ],
+        "text": "- American Conference of Governmental Industrial Hygienists",
+        "size": 7.994494438171387,
+        "font_flags": "italic, sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            53.931739807128906,
+            529.9906005859375
+        ],
+        "text": "OSHA ",
+        "size": 7.994494438171387,
+        "font_flags": "italic, sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            79.24969482421875,
+            529.9906005859375
+        ],
+        "text": "- Occupational Safety and Health Administration",
+        "size": 7.994494438171387,
+        "font_flags": "italic, sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            53.931739807128906,
+            539.3395385742188
+        ],
+        "text": "NIOSH:  ",
+        "size": 7.994494438171387,
+        "font_flags": "italic, sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            86.29078674316406,
+            539.3395385742188
+        ],
+        "text": "NIOSH -  National Institute for Occupational Safety and Health",
+        "size": 7.994494438171387,
+        "font_flags": "italic, sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            53.931739807128906,
+            569.9361572265625
+        ],
+        "text": "Engineering Measures",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            210.23391723632812,
+            569.6861572265625
+        ],
+        "text": "Ensure adequate ventilation, especially in confined areas. Ensure that eyewash stations",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            210.23391723632812,
+            580.0350341796875
+        ],
+        "text": "and safety showers are close to the workstation location. Use explosion-proof",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            210.23391723632812,
+            590.3838500976562
+        ],
+        "text": "electrical/ventilating/lighting equipment.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            53.931739807128906,
+            611.08154296875
+        ],
+        "text": "Personal Protective Equipment ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            69.56195831298828,
+            631.5292358398438
+        ],
+        "text": "Eye/face Protection",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            210.23391723632812,
+            631.2792358398438
+        ],
+        "text": "Wear appropriate protective eyeglasses or chemical safety goggles as described by",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            210.23391723632812,
+            641.6281127929688
+        ],
+        "text": "OSHA's eye and face protection regulations in 29 CFR 1910.133 or European Standard",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            210.23391723632812,
+            651.9769287109375
+        ],
+        "text": "EN166.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            69.56195831298828,
+            672.6746215820312
+        ],
+        "text": "Skin and body protection",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            210.23391723632812,
+            672.4246215820312
+        ],
+        "text": "Wear appropriate protective gloves and clothing to prevent skin exposure.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            69.56195831298828,
+            693.122314453125
+        ],
+        "text": "Respiratory Protection",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            53.931739807128906,
+            722.0191040039062
+        ],
+        "text": "______________________________________________________________________________________________",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 4,
+        "position": [
+            290.1327819824219,
+            743.9166259765625
+        ],
+        "text": "Page  4 / 9",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 4,
+        "position": [
+            210.23391723632812,
+            692.8723754882812
+        ],
+        "text": "Follow the OSHA respirator regulations found in 29 CFR 1910.134 or European Standard",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            56.793636322021484
+        ],
+        "text": "______________________________________________________________________________________________",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            45.59489059448242
+        ],
+        "text": "Acetone",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            460.6669616699219,
+            44.644996643066406
+        ],
+        "text": "Revision Date  ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            525.08544921875,
+            44.644996643066406
+        ],
+        "text": "13-Oct-2023",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            197.3502197265625,
+            154.732666015625
+        ],
+        "text": "9. Physical and chemical properties",
+        "size": 11.991741180419922,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            167.7812042236328
+        ],
+        "text": "Physical State",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            314.6018371582031,
+            167.53123474121094
+        ],
+        "text": "Liquid",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            178.13003540039062
+        ],
+        "text": "Appearance",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            314.6018371582031,
+            177.88006591796875
+        ],
+        "text": "Colorless",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            188.4788818359375
+        ],
+        "text": "Odor",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            314.6018371582031,
+            188.22891235351562
+        ],
+        "text": "sweet",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            198.8277130126953
+        ],
+        "text": "Odor Threshold",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            314.6018371582031,
+            198.57774353027344
+        ],
+        "text": "19.8 ppm",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            209.1765594482422
+        ],
+        "text": "pH",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            314.6018371582031,
+            208.9265899658203
+        ],
+        "text": " 7",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            219.52540588378906
+        ],
+        "text": "Melting Point/Range",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            314.6018371582031,
+            219.2754364013672
+        ],
+        "text": " -95  \u00b0C  /  -139  \u00b0F",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            229.87423706054688
+        ],
+        "text": "Boiling Point/Range",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            314.6018371582031,
+            229.624267578125
+        ],
+        "text": " 56  \u00b0C  /  132.8  \u00b0F",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            240.22308349609375
+        ],
+        "text": "Flash Point",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            314.6018371582031,
+            239.97311401367188
+        ],
+        "text": " -20  \u00b0C  /  -4  \u00b0F",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            69.56195831298828,
+            250.57192993164062
+        ],
+        "text": "Method -",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            314.5518798828125,
+            250.3219451904297
+        ],
+        "text": "CC (closed cup)",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            260.9207763671875
+        ],
+        "text": "Evaporation Rate",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            314.6018371582031,
+            260.6707763671875
+        ],
+        "text": "5.6 (Butyl Acetate = 1.0)",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            271.26959228515625
+        ],
+        "text": "Flammability (solid,gas)",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            314.6018371582031,
+            271.0196228027344
+        ],
+        "text": "Not applicable",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            281.6184387207031
+        ],
+        "text": "Flammability or explosive limits",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            69.56195831298828,
+            291.96728515625
+        ],
+        "text": "Upper",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            314.5518798828125,
+            291.7173156738281
+        ],
+        "text": "12.8 vol %",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            69.56195831298828,
+            302.3161315917969
+        ],
+        "text": "Lower",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            314.5518798828125,
+            302.066162109375
+        ],
+        "text": "2.5 vol %",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            312.66497802734375
+        ],
+        "text": "Vapor Pressure",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            314.6018371582031,
+            312.41497802734375
+        ],
+        "text": "247 mbar  @  20 \u00b0C",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            323.0137939453125
+        ],
+        "text": "Vapor Density",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            314.6018371582031,
+            322.7638244628906
+        ],
+        "text": "2.0",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            333.3626403808594
+        ],
+        "text": "Specific Gravity",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            314.6018371582031,
+            333.1126708984375
+        ],
+        "text": "0.790",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            343.71148681640625
+        ],
+        "text": "Solubility",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            314.6018371582031,
+            343.4615173339844
+        ],
+        "text": "Soluble in water",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            354.0603332519531
+        ],
+        "text": "Partition coefficient; n-octanol/water",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            314.6018371582031,
+            353.81036376953125
+        ],
+        "text": "No data available",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            364.4091796875
+        ],
+        "text": "Autoignition Temperature",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            314.6018371582031,
+            364.1591796875
+        ],
+        "text": " 465  \u00b0C  /  869  \u00b0F",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            374.75799560546875
+        ],
+        "text": "Decomposition Temperature",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            314.6018371582031,
+            374.5080261230469
+        ],
+        "text": "> 4\u00b0C",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            385.1068420410156
+        ],
+        "text": "Viscosity",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            314.6018371582031,
+            384.85687255859375
+        ],
+        "text": "0.32 mPa.s @ 20 \u00b0C",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            395.4556884765625
+        ],
+        "text": "Molecular Formula",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            314.6018371582031,
+            395.2057189941406
+        ],
+        "text": "C3 H6 O",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            405.8045349121094
+        ],
+        "text": "Molecular Weight",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            314.6018371582031,
+            405.5545654296875
+        ],
+        "text": "58.08",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            416.15338134765625
+        ],
+        "text": "VOC Content(%)",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            314.6018371582031,
+            415.90338134765625
+        ],
+        "text": "100",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            426.502197265625
+        ],
+        "text": "Refractive index",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            314.6018371582031,
+            426.2522277832031
+        ],
+        "text": "1.358 - 1.359",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            227.96148681640625,
+            452.24932861328125
+        ],
+        "text": "10. Stability and reactivity",
+        "size": 11.991741180419922,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            475.6466979980469
+        ],
+        "text": "Reactive Hazard",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            210.3337860107422,
+            475.396728515625
+        ],
+        "text": "None known, based on information available",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            496.09442138671875
+        ],
+        "text": "Stability",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            210.3337860107422,
+            495.8444519042969
+        ],
+        "text": "Stable under normal conditions.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            516.5421142578125
+        ],
+        "text": "Conditions to Avoid",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            210.3337860107422,
+            516.2921752929688
+        ],
+        "text": "Heat, flames and sparks. Incompatible products. Keep away from open flames, hot",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            210.3337860107422,
+            526.6409912109375
+        ],
+        "text": "surfaces and sources of ignition.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            547.3386840820312
+        ],
+        "text": "Incompatible Materials",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            210.3337860107422,
+            547.0886840820312
+        ],
+        "text": "Strong oxidizing agents, Strong reducing agents, Strong bases, Peroxides, Halogenated",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            210.3337860107422,
+            557.4375610351562
+        ],
+        "text": "compounds, Alkali metals, Amines",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            578.1351928710938
+        ],
+        "text": "Hazardous Decomposition Products",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            210.3337860107422,
+            577.88525390625
+        ],
+        "text": "Carbon monoxide (CO), Carbon dioxide (CO",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            387.5095520019531,
+            577.88525390625
+        ],
+        "text": "2",
+        "size": 5.646111488342285,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            390.65557861328125,
+            577.88525390625
+        ],
+        "text": "), Formaldehyde, Methanol",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            598.5829467773438
+        ],
+        "text": "Hazardous Polymerization",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            210.3337860107422,
+            598.3329467773438
+        ],
+        "text": "Hazardous polymerization does not occur.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            619.0306396484375
+        ],
+        "text": "Hazardous Reactions",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            210.3337860107422,
+            618.7806396484375
+        ],
+        "text": "None under normal processing.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            218.72317504882812,
+            644.7777709960938
+        ],
+        "text": "11. Toxicological information",
+        "size": 11.991741180419922,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            657.8262939453125
+        ],
+        "text": "Acute Toxicity ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            678.2739868164062
+        ],
+        "text": "Product Information",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            688.6228637695312
+        ],
+        "text": "Component Information",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            96.87738800048828,
+            698.7216796875
+        ],
+        "text": "Component",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            230.55819702148438,
+            698.7216796875
+        ],
+        "text": "LD50 Oral",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            355.3502502441406,
+            698.7216796875
+        ],
+        "text": "LD50 Dermal",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            480.342041015625,
+            698.7216796875
+        ],
+        "text": "LC50 Inhalation",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            210.23391723632812,
+            77.49131774902344
+        ],
+        "text": "EN 149. Use a NIOSH/MSHA or European Standard EN 149 approved respirator if",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            210.23391723632812,
+            87.84015655517578
+        ],
+        "text": "exposure limits are exceeded or if irritation or other symptoms are experienced.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            69.56195831298828,
+            108.53783416748047
+        ],
+        "text": "Recommended Filter type:",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            210.23391723632812,
+            108.2878646850586
+        ],
+        "text": "low boiling organic solvent. Type AX. Brown. conforming to EN371.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            69.56195831298828,
+            128.9855499267578
+        ],
+        "text": "Hygiene Measures",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 5,
+        "position": [
+            210.23391723632812,
+            128.73558044433594
+        ],
+        "text": "Handle in accordance with good industrial hygiene and safety practice.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            53.931739807128906,
+            722.0191040039062
+        ],
+        "text": "______________________________________________________________________________________________",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 5,
+        "position": [
+            290.1327819824219,
+            743.9166259765625
+        ],
+        "text": "Page  5 / 9",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            53.931739807128906,
+            56.793636322021484
+        ],
+        "text": "______________________________________________________________________________________________",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            53.931739807128906,
+            45.59489059448242
+        ],
+        "text": "Acetone",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            460.6669616699219,
+            44.644996643066406
+        ],
+        "text": "Revision Date  ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            525.08544921875,
+            44.644996643066406
+        ],
+        "text": "13-Oct-2023",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            104.4178466796875,
+            77.29133605957031
+        ],
+        "text": "Acetone",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            215.3274688720703,
+            77.29133605957031
+        ],
+        "text": "5800 mg/kg  ( Rat )",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            339.5202941894531,
+            77.29133605957031
+        ],
+        "text": "> 15800 mg/kg (rabbit)",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            347.1106872558594,
+            86.49031066894531
+        ],
+        "text": "> 7400 mg/kg (rat)",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            479.7927551269531,
+            77.29133605957031
+        ],
+        "text": "76 mg/l, 4 h, (rat)",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            53.931739807128906,
+            97.58906555175781
+        ],
+        "text": "Toxicologically Synergistic",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            53.931739807128906,
+            107.93790435791016
+        ],
+        "text": "Products",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            210.3337860107422,
+            97.33909606933594
+        ],
+        "text": "Carbon tetrachloride; Chloroform; Trichloroethylene; Bromodichloromethane;",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            210.3337860107422,
+            107.68793487548828
+        ],
+        "text": "Dibromochloromethane; N-nitrosodimethylamine; 1,1,2-Trichloroethane; Styrene;",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            210.3337860107422,
+            118.03677368164062
+        ],
+        "text": "Acetonitrile, 2,5-Hexanedione; Ethanol; 1,2-Dichlorobenzene",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            53.931739807128906,
+            128.63558959960938
+        ],
+        "text": "Delayed and immediate effects as well as chronic effects from short and long-term exposure  ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            53.931739807128906,
+            149.0832977294922
+        ],
+        "text": "Irritation",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            210.3337860107422,
+            148.8333282470703
+        ],
+        "text": "Irritating to eyes",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            53.931739807128906,
+            169.531005859375
+        ],
+        "text": "Sensitization",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            210.3337860107422,
+            169.28103637695312
+        ],
+        "text": "No information available",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            53.931739807128906,
+            189.9787139892578
+        ],
+        "text": "Carcinogenicity",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            210.3337860107422,
+            189.72874450683594
+        ],
+        "text": "The table below indicates whether each agency has listed any ingredient as a carcinogen.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            73.40708923339844,
+            210.17645263671875
+        ],
+        "text": "Component",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            158.89889526367188,
+            210.17645263671875
+        ],
+        "text": "CAS No",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            236.95010375976562,
+            210.17645263671875
+        ],
+        "text": "IARC",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            311.7054748535156,
+            210.17645263671875
+        ],
+        "text": "NTP",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            379.76934814453125,
+            210.17645263671875
+        ],
+        "text": "ACGIH",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            454.0752868652344,
+            210.17645263671875
+        ],
+        "text": "OSHA",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            525.1353759765625,
+            210.17645263671875
+        ],
+        "text": "Mexico",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            80.94754791259766,
+            219.92535400390625
+        ],
+        "text": "Acetone",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            160.0474395751953,
+            219.92535400390625
+        ],
+        "text": "67-64-1",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            230.1087646484375,
+            219.92535400390625
+        ],
+        "text": "Not listed",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            303.0664367675781,
+            219.92535400390625
+        ],
+        "text": "Not listed",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            376.0240783691406,
+            219.92535400390625
+        ],
+        "text": "Not listed",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            448.98175048828125,
+            219.92535400390625
+        ],
+        "text": "Not listed",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            522.039306640625,
+            219.92535400390625
+        ],
+        "text": "Not listed",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            53.931739807128906,
+            231.02410888671875
+        ],
+        "text": "Mutagenic Effects",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            210.3337860107422,
+            230.77413940429688
+        ],
+        "text": "No information available",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            53.931739807128906,
+            251.47181701660156
+        ],
+        "text": "Reproductive Effects",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            210.3337860107422,
+            251.2218475341797
+        ],
+        "text": "No information available.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            53.931739807128906,
+            271.9195251464844
+        ],
+        "text": "Developmental Effects",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            210.3337860107422,
+            271.6695556640625
+        ],
+        "text": "No information available.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            53.931739807128906,
+            292.36724853515625
+        ],
+        "text": "Teratogenicity",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            210.3337860107422,
+            292.1172790527344
+        ],
+        "text": "No information available.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            53.931739807128906,
+            312.81494140625
+        ],
+        "text": "STOT - single exposure",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            210.3337860107422,
+            312.5649719238281
+        ],
+        "text": "Central nervous system (CNS)",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            53.931739807128906,
+            323.1637878417969
+        ],
+        "text": "STOT - repeated exposure",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            210.3337860107422,
+            322.913818359375
+        ],
+        "text": "None known",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            53.931739807128906,
+            343.8614807128906
+        ],
+        "text": "Aspiration hazard",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            210.3337860107422,
+            343.61151123046875
+        ],
+        "text": "No information available",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            53.931739807128906,
+            364.3091735839844
+        ],
+        "text": "Symptoms  / effects,both acute and",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            53.931739807128906,
+            374.65802001953125
+        ],
+        "text": "delayed",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            210.3337860107422,
+            364.0592041015625
+        ],
+        "text": "Symptoms of overexposure may be headache, dizziness, tiredness, nausea and vomiting:",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            210.3337860107422,
+            374.4080505371094
+        ],
+        "text": "May cause pulmonary edema",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            53.931739807128906,
+            395.105712890625
+        ],
+        "text": "Endocrine Disruptor Information",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            210.3337860107422,
+            394.8557434082031
+        ],
+        "text": "No information available",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            53.931739807128906,
+            415.5534362792969
+        ],
+        "text": "Other Adverse Effects",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            210.3337860107422,
+            415.303466796875
+        ],
+        "text": "The toxicological properties have not been fully investigated.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            228.7105255126953,
+            441.300537109375
+        ],
+        "text": "12. Ecological information",
+        "size": 11.991741180419922,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            53.931739807128906,
+            454.3490905761719
+        ],
+        "text": "Ecotoxicity ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            53.931739807128906,
+            464.4479675292969
+        ],
+        "text": ".",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            83.84387969970703,
+            484.8956604003906
+        ],
+        "text": "Component",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            176.9260711669922,
+            484.8956604003906
+        ],
+        "text": "Freshwater Algae",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            283.84075927734375,
+            484.8956604003906
+        ],
+        "text": "Freshwater Fish",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            402.24090576171875,
+            484.8956604003906
+        ],
+        "text": "Microtox",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            502.9634094238281,
+            484.8956604003906
+        ],
+        "text": "Water Flea",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            91.38433837890625,
+            494.6445617675781
+        ],
+        "text": "Acetone",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            160.0973663330078,
+            494.6445617675781
+        ],
+        "text": "NOEC = 430 mg/l (algae; 96",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            206.7882843017578,
+            503.8435363769531
+        ],
+        "text": "h)",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            263.76617431640625,
+            494.6445617675781
+        ],
+        "text": "Oncorhynchus mykiss: LC50",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            285.8881530761719,
+            503.8435363769531
+        ],
+        "text": "= 5540 mg/l 96h",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            267.2117919921875,
+            513.0425415039062
+        ],
+        "text": "Alburnus alburnus: LC50 =",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            287.0866394042969,
+            522.241455078125
+        ],
+        "text": "11000 mg/l 96h",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            273.2042236328125,
+            531.4404296875
+        ],
+        "text": "Leuciscus idus: LC50 =",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            285.73834228515625,
+            540.639404296875
+        ],
+        "text": "11300 mg/L/48h",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            271.406494140625,
+            549.83837890625
+        ],
+        "text": "Salmo gairdneri: LC50 =",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            287.9855041503906,
+            559.037353515625
+        ],
+        "text": "6100 mg/L/24h",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            370.1814880371094,
+            494.6445617675781
+        ],
+        "text": "EC50 = 14500 mg/L/15 min",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            481.9899597167969,
+            494.6445617675781
+        ],
+        "text": "EC50 = 8800 mg/L/48h",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            479.7428283691406,
+            503.8435363769531
+        ],
+        "text": "EC50 = 12700 mg/L/48h",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            479.7428283691406,
+            513.0425415039062
+        ],
+        "text": "EC50 = 12600 mg/L/48h",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            53.931739807128906,
+            570.1361083984375
+        ],
+        "text": "Persistence and Degradability",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            210.3337860107422,
+            569.8861694335938
+        ],
+        "text": "Persistence is unlikely based on information available.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            53.931739807128906,
+            590.5838012695312
+        ],
+        "text": "Bioaccumulation/ Accumulation",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            210.3337860107422,
+            590.3338623046875
+        ],
+        "text": "No information available.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            53.931739807128906,
+            611.0315551757812
+        ],
+        "text": "Mobility",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            210.3337860107422,
+            610.7815551757812
+        ],
+        "text": "Will likely be mobile in the environment due to its volatility.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            162.04490661621094,
+            631.229248046875
+        ],
+        "text": "Component",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            429.50640869140625,
+            631.229248046875
+        ],
+        "text": "log Pow",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            169.58535766601562,
+            640.9781494140625
+        ],
+        "text": "Acetone",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            435.8483581542969,
+            640.9781494140625
+        ],
+        "text": "-0.24",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            223.96653747558594,
+            667.4752197265625
+        ],
+        "text": "13. Disposal considerations",
+        "size": 11.991741180419922,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            53.931739807128906,
+            680.5237426757812
+        ],
+        "text": "Waste Disposal Methods",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 6,
+        "position": [
+            210.3337860107422,
+            680.2737426757812
+        ],
+        "text": "Chemical waste generators must determine whether a discarded chemical is classified as a",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            210.3337860107422,
+            690.6226196289062
+        ],
+        "text": "hazardous waste.  Chemical waste generators must also consult local, regional, and",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            210.3337860107422,
+            700.971435546875
+        ],
+        "text": "national hazardous waste regulations to ensure complete and accurate classification.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            53.931739807128906,
+            722.0191040039062
+        ],
+        "text": "______________________________________________________________________________________________",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 6,
+        "position": [
+            290.1327819824219,
+            743.9166259765625
+        ],
+        "text": "Page  6 / 9",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            53.931739807128906,
+            56.793636322021484
+        ],
+        "text": "______________________________________________________________________________________________",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            53.931739807128906,
+            45.59489059448242
+        ],
+        "text": "Acetone",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            460.6669616699219,
+            44.644996643066406
+        ],
+        "text": "Revision Date  ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            525.08544921875,
+            44.644996643066406
+        ],
+        "text": "13-Oct-2023",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            135.9779052734375,
+            87.5901870727539
+        ],
+        "text": "Component",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            294.477294921875,
+            87.5901870727539
+        ],
+        "text": "RCRA - U Series Wastes",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            451.1290283203125,
+            87.5901870727539
+        ],
+        "text": "RCRA - P Series Wastes",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            126.24022674560547,
+            97.33909606933594
+        ],
+        "text": "Acetone - 67-64-1",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            331.0809631347656,
+            97.33909606933594
+        ],
+        "text": "U002",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            495.72259521484375,
+            97.33909606933594
+        ],
+        "text": "-",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            231.00762939453125,
+            123.83612060546875
+        ],
+        "text": "14. Transport information",
+        "size": 11.991741180419922,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            53.931739807128906,
+            136.88465881347656
+        ],
+        "text": "DOT ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            69.56195831298828,
+            147.23350524902344
+        ],
+        "text": "UN-No",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            210.2838592529297,
+            146.98353576660156
+        ],
+        "text": "UN1090",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            69.56195831298828,
+            157.58233642578125
+        ],
+        "text": "Proper Shipping Name",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            210.2838592529297,
+            157.33236694335938
+        ],
+        "text": "ACETONE",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            69.56195831298828,
+            167.93118286132812
+        ],
+        "text": "Hazard Class",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            210.2838592529297,
+            167.68121337890625
+        ],
+        "text": "3",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            69.56195831298828,
+            178.280029296875
+        ],
+        "text": "Packing Group",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            210.2838592529297,
+            178.03004455566406
+        ],
+        "text": "II",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            53.931739807128906,
+            188.6288604736328
+        ],
+        "text": " ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            56.42858123779297,
+            188.6288604736328
+        ],
+        "text": " ",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            58.62580108642578,
+            188.6288604736328
+        ],
+        "text": "TDG ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            69.56195831298828,
+            198.9777069091797
+        ],
+        "text": "UN-No",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            210.2838592529297,
+            198.7277374267578
+        ],
+        "text": "UN1090",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            69.56195831298828,
+            209.3265380859375
+        ],
+        "text": "Proper Shipping Name",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            210.2838592529297,
+            209.07656860351562
+        ],
+        "text": "ACETONE",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            69.56195831298828,
+            219.67538452148438
+        ],
+        "text": "Hazard Class",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            210.2838592529297,
+            219.4254150390625
+        ],
+        "text": "3",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            69.56195831298828,
+            230.02423095703125
+        ],
+        "text": "Packing Group",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            210.2838592529297,
+            229.7742462158203
+        ],
+        "text": "II",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            53.931739807128906,
+            240.37306213378906
+        ],
+        "text": "IATA ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            69.56195831298828,
+            250.72190856933594
+        ],
+        "text": "UN-No",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            210.2838592529297,
+            250.47193908691406
+        ],
+        "text": "UN1090",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            69.56195831298828,
+            261.07073974609375
+        ],
+        "text": "Proper Shipping Name",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            210.2838592529297,
+            260.8207702636719
+        ],
+        "text": "ACETONE",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            69.56195831298828,
+            271.4195861816406
+        ],
+        "text": "Hazard Class",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            210.2838592529297,
+            271.16961669921875
+        ],
+        "text": "3",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            69.56195831298828,
+            281.7684326171875
+        ],
+        "text": "Packing Group",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            210.2838592529297,
+            281.5184631347656
+        ],
+        "text": "II",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            53.931739807128906,
+            292.1172790527344
+        ],
+        "text": "IMDG/IMO ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            69.56195831298828,
+            302.4660949707031
+        ],
+        "text": "UN-No",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            210.2838592529297,
+            302.21612548828125
+        ],
+        "text": "UN1090",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            69.56195831298828,
+            312.81494140625
+        ],
+        "text": "Proper Shipping Name",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            210.2838592529297,
+            312.5649719238281
+        ],
+        "text": "ACETONE",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            69.56195831298828,
+            323.1637878417969
+        ],
+        "text": "Hazard Class",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            210.2838592529297,
+            322.913818359375
+        ],
+        "text": "3",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            69.56195831298828,
+            333.51263427734375
+        ],
+        "text": "Packing Group",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            210.2838592529297,
+            333.2626647949219
+        ],
+        "text": "II",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            227.3123016357422,
+            349.160888671875
+        ],
+        "text": "15. Regulatory information",
+        "size": 11.991741180419922,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            53.931739807128906,
+            372.5582580566406
+        ],
+        "text": "United States of America Inventory ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            94.2307357788086,
+            392.7559814453125
+        ],
+        "text": "Component",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            203.1928253173828,
+            392.7559814453125
+        ],
+        "text": "CAS No",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            285.3887939453125,
+            392.7559814453125
+        ],
+        "text": "TSCA",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            350.9058837890625,
+            392.7559814453125
+        ],
+        "text": "TSCA Inventory notification -",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            377.7718811035156,
+            401.9549560546875
+        ],
+        "text": "Active-Inactive",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            481.14105224609375,
+            392.7559814453125
+        ],
+        "text": "TSCA - EPA Regulatory",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            515.2478637695312,
+            401.9549560546875
+        ],
+        "text": "Flags",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            101.82112884521484,
+            411.703857421875
+        ],
+        "text": "Acetone",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            204.34136962890625,
+            411.703857421875
+        ],
+        "text": "67-64-1",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            293.62835693359375,
+            411.703857421875
+        ],
+        "text": "X",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            391.30474853515625,
+            411.703857421875
+        ],
+        "text": "ACTIVE",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            524.3862915039062,
+            411.703857421875
+        ],
+        "text": "-",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            53.931739807128906,
+            431.901611328125
+        ],
+        "text": "Legend:",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            53.931739807128906,
+            442.0004577636719
+        ],
+        "text": "TSCA  ",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            80.1485595703125,
+            442.0004577636719
+        ],
+        "text": "US EPA (TSCA) - Toxic Substances Control Act, (40 CFR Part 710)",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            53.931739807128906,
+            451.1994323730469
+        ],
+        "text": "X - Listed",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            53.931739807128906,
+            460.3984069824219
+        ],
+        "text": "'-' - Not Listed",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            53.931739807128906,
+            480.8961181640625
+        ],
+        "text": "TSCA - Per 40 CFR 751, Regulation of Certain Chemical",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            53.931739807128906,
+            491.2449645996094
+        ],
+        "text": "Substances & Mixtures, Under TSCA Section 6(h) (PBT)",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            314.6018371582031,
+            480.6461486816406
+        ],
+        "text": "Not applicable",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            53.931739807128906,
+            511.6926574707031
+        ],
+        "text": "TSCA 12(b) ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            104.86727142333984,
+            511.6926574707031
+        ],
+        "text": "- Notices of Export",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            314.6018371582031,
+            511.44268798828125
+        ],
+        "text": "Not applicable",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            53.931739807128906,
+            549.388427734375
+        ],
+        "text": "International Inventories ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            53.931739807128906,
+            558.5374145507812
+        ],
+        "text": "Canada (DSL/NDSL), Europe (EINECS/ELINCS/NLP), Philippines (PICCS), Japan (ENCS), Japan (ISHL), Australia (AICS), China (IECSC), Korea",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            53.931739807128906,
+            567.7363891601562
+        ],
+        "text": "(KECL).",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            94.2307357788086,
+            587.984130859375
+        ],
+        "text": "Component",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            195.35275268554688,
+            587.984130859375
+        ],
+        "text": "CAS No",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            251.7313995361328,
+            587.984130859375
+        ],
+        "text": "DSL",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            285.2889099121094,
+            587.984130859375
+        ],
+        "text": "NDSL",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            320.3945007324219,
+            587.984130859375
+        ],
+        "text": "EINECS",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            362.14166259765625,
+            587.984130859375
+        ],
+        "text": "PICCS",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            399.6941223144531,
+            587.984130859375
+        ],
+        "text": "ENCS",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            438.14544677734375,
+            587.984130859375
+        ],
+        "text": "ISHL",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            474.14990234375,
+            587.984130859375
+        ],
+        "text": "AICS",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            507.95709228515625,
+            587.984130859375
+        ],
+        "text": "IECSC",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            550.9526977539062,
+            587.984130859375
+        ],
+        "text": "KECL",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            101.82112884521484,
+            597.7330322265625
+        ],
+        "text": "Acetone",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            196.5012969970703,
+            597.7330322265625
+        ],
+        "text": "67-64-1",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            257.07464599609375,
+            597.7330322265625
+        ],
+        "text": "X",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            294.8768005371094,
+            597.7330322265625
+        ],
+        "text": "-",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            317.0986633300781,
+            597.7330322265625
+        ],
+        "text": "200-662-2",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            371.6795959472656,
+            597.7330322265625
+        ],
+        "text": "X",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            408.1334533691406,
+            597.7330322265625
+        ],
+        "text": "X",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            444.5873107910156,
+            597.7330322265625
+        ],
+        "text": "X",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            481.0411682128906,
+            597.7330322265625
+        ],
+        "text": "X",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            517.4950561523438,
+            597.7330322265625
+        ],
+        "text": "X",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            544.0614013671875,
+            597.7330322265625
+        ],
+        "text": "KE-29367",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            53.931739807128906,
+            614.7811279296875
+        ],
+        "text": "KECL ",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            77.95133972167969,
+            614.7811279296875
+        ],
+        "text": "- NIER number or KE number (http://ncis.nier.go.kr/en/main.do)",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            53.931739807128906,
+            635.27880859375
+        ],
+        "text": "U.S. Federal Regulations  ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            53.931739807128906,
+            655.7265014648438
+        ],
+        "text": "SARA 313",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            210.3337860107422,
+            655.4765625
+        ],
+        "text": "Not applicable",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            53.931739807128906,
+            676.4241943359375
+        ],
+        "text": "SARA 311/312 Hazard Categories",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            210.3337860107422,
+            676.1742553710938
+        ],
+        "text": "See section 2 for more information",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            53.931739807128906,
+            696.8718872070312
+        ],
+        "text": "CWA (Clean Water Act)",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 7,
+        "position": [
+            210.3337860107422,
+            696.6219482421875
+        ],
+        "text": "Not applicable",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            53.931739807128906,
+            722.0191040039062
+        ],
+        "text": "______________________________________________________________________________________________",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 7,
+        "position": [
+            290.1327819824219,
+            743.9166259765625
+        ],
+        "text": "Page  7 / 9",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            53.931739807128906,
+            56.793636322021484
+        ],
+        "text": "______________________________________________________________________________________________",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            53.931739807128906,
+            45.59489059448242
+        ],
+        "text": "Acetone",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            460.6669616699219,
+            44.644996643066406
+        ],
+        "text": "Revision Date  ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            525.08544921875,
+            44.644996643066406
+        ],
+        "text": "13-Oct-2023",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            53.931739807128906,
+            87.84015655517578
+        ],
+        "text": "Clean Air Act",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            210.3337860107422,
+            87.5901870727539
+        ],
+        "text": "Not applicable",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            53.931739807128906,
+            108.2878646850586
+        ],
+        "text": "OSHA ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            82.39571380615234,
+            108.2878646850586
+        ],
+        "text": "- Occupational Safety and",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            53.931739807128906,
+            118.63670349121094
+        ],
+        "text": "Health Administration",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            210.3337860107422,
+            108.03789520263672
+        ],
+        "text": "Not applicable",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            53.931739807128906,
+            139.33438110351562
+        ],
+        "text": "CERCLA",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            210.3337860107422,
+            139.08441162109375
+        ],
+        "text": "This material, as supplied, contains one or more substances regulated as a hazardous",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            210.3337860107422,
+            149.43325805664062
+        ],
+        "text": "substance under the Comprehensive Environmental Response Compensation and Liability",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            210.3337860107422,
+            159.78208923339844
+        ],
+        "text": "Act (CERCLA) (40 CFR 302)",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            133.2313690185547,
+            181.2296905517578
+        ],
+        "text": "Component",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            287.3363342285156,
+            180.22979736328125
+        ],
+        "text": "Hazardous Substances RQs",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            461.71563720703125,
+            180.22979736328125
+        ],
+        "text": "CERCLA EHS RQs",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            141.7206268310547,
+            192.07847595214844
+        ],
+        "text": "Acetone",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            327.53546142578125,
+            191.1285858154297
+        ],
+        "text": "5000 lb",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            495.72259521484375,
+            191.1285858154297
+        ],
+        "text": "-",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            53.931739807128906,
+            213.47607421875
+        ],
+        "text": "California Proposition 65",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            210.3337860107422,
+            213.22610473632812
+        ],
+        "text": "This product does not contain any Proposition 65 chemicals.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            53.931739807128906,
+            233.9237823486328
+        ],
+        "text": "U.S. State Right-to-Know",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            53.931739807128906,
+            244.2726287841797
+        ],
+        "text": "Regulations",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            81.09735870361328,
+            265.4702453613281
+        ],
+        "text": "Component",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            171.2332763671875,
+            264.4703674316406
+        ],
+        "text": "Massachusetts",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            261.2693176269531,
+            264.4703674316406
+        ],
+        "text": "New Jersey",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            341.26806640625,
+            264.4703674316406
+        ],
+        "text": "Pennsylvania",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            437.44635009765625,
+            264.4703674316406
+        ],
+        "text": "Illinois",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            508.4065246582031,
+            264.4703674316406
+        ],
+        "text": "Rhode Island",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            89.58661651611328,
+            276.31903076171875
+        ],
+        "text": "Acetone",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            197.20040893554688,
+            275.369140625
+        ],
+        "text": "X",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            280.5948791503906,
+            275.369140625
+        ],
+        "text": "X",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            363.98931884765625,
+            275.369140625
+        ],
+        "text": "X",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            448.7320556640625,
+            275.369140625
+        ],
+        "text": "-",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            530.8281860351562,
+            275.369140625
+        ],
+        "text": "X",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            53.931739807128906,
+            297.7166442871094
+        ],
+        "text": "U.S. Department of Transportation",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            53.931739807128906,
+            307.8155212402344
+        ],
+        "text": "Reportable Quantity (RQ):",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            210.3337860107422,
+            307.8155212402344
+        ],
+        "text": "Y",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            53.931739807128906,
+            318.1643371582031
+        ],
+        "text": "DOT Marine Pollutant",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            210.3337860107422,
+            318.1643371582031
+        ],
+        "text": "N",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            53.931739807128906,
+            328.51318359375
+        ],
+        "text": "DOT Severe Marine Pollutant",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            210.3337860107422,
+            328.51318359375
+        ],
+        "text": "N",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            53.931739807128906,
+            349.21087646484375
+        ],
+        "text": "U.S. Department of Homeland",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            53.931739807128906,
+            359.5597229003906
+        ],
+        "text": "Security",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            210.3337860107422,
+            348.9609069824219
+        ],
+        "text": "This product does not contain any DHS chemicals.",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            53.931739807128906,
+            380.0074157714844
+        ],
+        "text": "Other International Regulations ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            53.931739807128906,
+            400.45513916015625
+        ],
+        "text": "Mexico - Grade",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            210.3337860107422,
+            400.2051696777344
+        ],
+        "text": "Serious risk, Grade 3",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            53.931739807128906,
+            431.001708984375
+        ],
+        "text": "Authorisation/Restrictions according to EU REACH",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            96.87738800048828,
+            451.1994323730469
+        ],
+        "text": "Component",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            218.2238006591797,
+            451.1994323730469
+        ],
+        "text": "CAS No",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            291.5310363769531,
+            451.1994323730469
+        ],
+        "text": "REACH (1907/2006) -",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            285.08917236328125,
+            460.3984069824219
+        ],
+        "text": "Annex XIV - Substances",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            284.689697265625,
+            469.5973815917969
+        ],
+        "text": "Subject to Authorization",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            389.25732421875,
+            451.1994323730469
+        ],
+        "text": "REACH (1907/2006) -",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            381.1176452636719,
+            460.3984069824219
+        ],
+        "text": "Annex XVII - Restrictions",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            386.8104248046875,
+            469.5973815917969
+        ],
+        "text": "on Certain Dangerous",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            406.135986328125,
+            478.7963562011719
+        ],
+        "text": "Substances",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            482.33953857421875,
+            451.1994323730469
+        ],
+        "text": "REACH Regulation (EC",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            484.23712158203125,
+            460.3984069824219
+        ],
+        "text": "1907/2006) article 59  -",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            493.97479248046875,
+            469.5973815917969
+        ],
+        "text": "Candidate List of",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            479.34332275390625,
+            478.7963562011719
+        ],
+        "text": "Substances of Very High",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            495.22320556640625,
+            487.9953308105469
+        ],
+        "text": "Concern (SVHC)",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            104.4178466796875,
+            497.7442321777344
+        ],
+        "text": "Acetone",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            219.37234497070312,
+            497.7442321777344
+        ],
+        "text": "67-64-1",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            329.5329284667969,
+            497.7442321777344
+        ],
+        "text": "-",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            386.0114440917969,
+            497.7442321777344
+        ],
+        "text": "Use restricted. See item",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            423.0146179199219,
+            506.9432067871094
+        ],
+        "text": "75.",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            389.55694580078125,
+            516.1421508789062
+        ],
+        "text": "(see link for restriction",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            415.67388916015625,
+            525.3411254882812
+        ],
+        "text": "details)",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            525.0354614257812,
+            497.7442321777344
+        ],
+        "text": "-",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            53.931739807128906,
+            545.5388793945312
+        ],
+        "text": "REACH links",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            53.931739807128906,
+            554.537841796875
+        ],
+        "text": "https://echa.europa.eu/substances-restricted-under-reach",
+        "size": 7.994494438171387,
+        "font_flags": "italic, sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            53.931739807128906,
+            585.1344604492188
+        ],
+        "text": "Safety, health and environmental regulations/legislation specific for the substance or mixture",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            86.44059753417969,
+            605.3321533203125
+        ],
+        "text": "Component",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            189.6599578857422,
+            605.3321533203125
+        ],
+        "text": "CAS No",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            266.0133056640625,
+            605.3321533203125
+        ],
+        "text": "OECD HPV",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            333.7775573730469,
+            605.3321533203125
+        ],
+        "text": "Persistent Organic",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            352.154296875,
+            614.5311279296875
+        ],
+        "text": "Pollutant",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            420.0683288574219,
+            605.3321533203125
+        ],
+        "text": "Ozone Depletion",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            434.749755859375,
+            614.5311279296875
+        ],
+        "text": "Potential",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            508.3066711425781,
+            605.3321533203125
+        ],
+        "text": "Restriction of",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            513.550048828125,
+            614.5311279296875
+        ],
+        "text": "Hazardous",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            496.92108154296875,
+            623.7301025390625
+        ],
+        "text": "Substances (RoHS)",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            93.9810562133789,
+            633.47900390625
+        ],
+        "text": "Acetone",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            190.80850219726562,
+            633.47900390625
+        ],
+        "text": "67-64-1",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            276.2503662109375,
+            633.47900390625
+        ],
+        "text": "Listed",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            343.91473388671875,
+            633.47900390625
+        ],
+        "text": "Not applicable",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            426.260498046875,
+            633.47900390625
+        ],
+        "text": "Not applicable",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            508.6562194824219,
+            633.47900390625
+        ],
+        "text": "Not applicable",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            53.931739807128906,
+            661.5758666992188
+        ],
+        "text": "Contains component(s) that meet a 'definition' of per & poly fluoroalkyl substance (PFAS)?",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 8,
+        "position": [
+            53.931739807128906,
+            671.6747436523438
+        ],
+        "text": "Not applicable",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            53.931739807128906,
+            722.0191040039062
+        ],
+        "text": "______________________________________________________________________________________________",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 8,
+        "position": [
+            290.1327819824219,
+            743.9166259765625
+        ],
+        "text": "Page  8 / 9",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            53.931739807128906,
+            56.793636322021484
+        ],
+        "text": "______________________________________________________________________________________________",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 9,
+        "position": [
+            53.931739807128906,
+            45.59489059448242
+        ],
+        "text": "Acetone",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            460.6669616699219,
+            44.644996643066406
+        ],
+        "text": "Revision Date  ",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            525.08544921875,
+            44.644996643066406
+        ],
+        "text": "13-Oct-2023",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 9,
+        "position": [
+            53.931739807128906,
+            87.84015655517578
+        ],
+        "text": "Other International Regulations",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            86.44059753417969,
+            108.03789520263672
+        ],
+        "text": "Component",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            189.6599578857422,
+            108.03789520263672
+        ],
+        "text": "CAS No",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            250.68272399902344,
+            108.03789520263672
+        ],
+        "text": "Seveso III Directive",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            260.72003173828125,
+            117.23686218261719
+        ],
+        "text": "(2012/18/EC) -",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            246.8875274658203,
+            126.43582916259766
+        ],
+        "text": "Qualifying Quantities",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            251.88121032714844,
+            135.63479614257812
+        ],
+        "text": "for Major Accident",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            264.96466064453125,
+            144.83377075195312
+        ],
+        "text": "Notification",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            333.02850341796875,
+            108.03789520263672
+        ],
+        "text": "Seveso III Directive",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            343.0657958984375,
+            117.23686218261719
+        ],
+        "text": "(2012/18/EC) -",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            329.2333068847656,
+            126.43582916259766
+        ],
+        "text": "Qualifying Quantities",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            336.923583984375,
+            135.63479614257812
+        ],
+        "text": "for Safety Report",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            342.6163635253906,
+            144.83377075195312
+        ],
+        "text": "Requirements",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            431.6037292480469,
+            108.03789520263672
+        ],
+        "text": "Rotterdam",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            419.26934814453125,
+            117.23686218261719
+        ],
+        "text": "Convention (PIC)",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            500.3167724609375,
+            108.03789520263672
+        ],
+        "text": "Basel Convention",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            498.0696105957031,
+            117.23686218261719
+        ],
+        "text": "(Hazardous Waste)",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            93.9810562133789,
+            154.58267211914062
+        ],
+        "text": "Acetone",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 9,
+        "position": [
+            190.80850219726562,
+            154.58267211914062
+        ],
+        "text": "67-64-1",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 9,
+        "position": [
+            261.5689392089844,
+            154.58267211914062
+        ],
+        "text": "Not applicable",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 9,
+        "position": [
+            343.91473388671875,
+            154.58267211914062
+        ],
+        "text": "Not applicable",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 9,
+        "position": [
+            426.260498046875,
+            154.58267211914062
+        ],
+        "text": "Not applicable",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 9,
+        "position": [
+            509.8547058105469,
+            154.58267211914062
+        ],
+        "text": "Annex I - Y42",
+        "size": 7.994494438171387,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 9,
+        "position": [
+            244.64036560058594,
+            191.4285430908203
+        ],
+        "text": "16. Other information",
+        "size": 11.991741180419922,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            53.931739807128906,
+            204.47708129882812
+        ],
+        "text": "Prepared By",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            210.3337860107422,
+            204.22711181640625
+        ],
+        "text": "Regulatory Affairs",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 9,
+        "position": [
+            210.3337860107422,
+            214.57595825195312
+        ],
+        "text": "Thermo Fisher Scientific",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 9,
+        "position": [
+            210.3337860107422,
+            224.92478942871094
+        ],
+        "text": "Email: EMSDS.RA@thermofisher.com",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 9,
+        "position": [
+            53.931739807128906,
+            245.6224822998047
+        ],
+        "text": "Creation Date",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            210.3337860107422,
+            245.37249755859375
+        ],
+        "text": "28-Apr-2009",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 9,
+        "position": [
+            53.931739807128906,
+            255.9713134765625
+        ],
+        "text": "Revision Date",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            210.3337860107422,
+            255.72134399414062
+        ],
+        "text": "13-Oct-2023",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 9,
+        "position": [
+            53.931739807128906,
+            266.3201599121094
+        ],
+        "text": "Print Date",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            210.3337860107422,
+            266.0701904296875
+        ],
+        "text": "13-Oct-2023",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 9,
+        "position": [
+            53.931739807128906,
+            276.66900634765625
+        ],
+        "text": "Revision Summary",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            210.3337860107422,
+            276.4190368652344
+        ],
+        "text": "This document has been updated to comply with the US OSHA HazCom 2012 Standard",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 9,
+        "position": [
+            210.3337860107422,
+            286.7678527832031
+        ],
+        "text": "replacing the current legislation under 29 CFR 1910.1200 to align with the Globally",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 9,
+        "position": [
+            210.3337860107422,
+            297.11669921875
+        ],
+        "text": "Harmonized System of Classification and Labeling of Chemicals (GHS).",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 9,
+        "position": [
+            53.931739807128906,
+            317.81439208984375
+        ],
+        "text": "Disclaimer",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            53.931739807128906,
+            328.1632385253906
+        ],
+        "text": "The information provided in this Safety Data Sheet is correct to the best of our knowledge, information and belief at the",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            53.931739807128906,
+            338.5120544433594
+        ],
+        "text": "date of its publication. The information given is designed only as a guidance for safe handling, use, processing, storage,",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            53.931739807128906,
+            348.86090087890625
+        ],
+        "text": "transportation, disposal and release and is not to be considered a warranty or quality specification. The information",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            53.931739807128906,
+            359.2097473144531
+        ],
+        "text": "relates only to the specific material designated and may not be valid for such material used in combination with any other",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            53.931739807128906,
+            369.55859375
+        ],
+        "text": "materials or in any process, unless specified in the text",
+        "size": 8.993805885314941,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            276.50006103515625,
+            394.455810546875
+        ],
+        "text": "End of SDS",
+        "size": 13.990365028381348,
+        "font_flags": "sans, proportional, bold"
+    },
+    {
+        "page": 9,
+        "position": [
+            53.931739807128906,
+            722.0191040039062
+        ],
+        "text": "______________________________________________________________________________________________",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional"
+    },
+    {
+        "page": 9,
+        "position": [
+            290.1327819824219,
+            743.9166259765625
+        ],
+        "text": "Page  9 / 9",
+        "size": 9.993117332458496,
+        "font_flags": "sans, proportional, bold"
+    }
+]
