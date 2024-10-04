@@ -1,4 +1,5 @@
 # Data Pre-processor
+
 De-constructing regular pdf's,docx format based information into structured JSON format.
 
 ---
@@ -20,8 +21,24 @@ To contribute to our documentation:
    ```bash
    git checkout -b <new-branch-name>
    ```
-4. **Virtual Evnvironment:** Create necessary virtual environtment or docker container; prefer if you look into docker and stuff.
-5. Use Git CLI to add your files and track it.
-6. Once pushed to your branch give a pull request.
+
+4. _Activate the Virtual Environment:_ Before you run the script, you need to activate the virtual environment that contains all the required dependencies.
+
+For Windows:
+
+bash
+cd data_preprocessor
+env\Scripts\activate
+
+For macOS/Linux:
+bash
+cd data_preprocessor
+source env/bin/activate
+
+---
+
+5. _Note:_ Please change the input/output folders depending on the desired location
+
+<i>Happy Coding<i>😎
 
 ---
