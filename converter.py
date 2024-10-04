@@ -35,8 +35,8 @@ def scrape(filePath):
     pdf.close()
     return results
 
-#weightarr=[("5.1",5),("3",3),("2",2),("1",1),("1",1),("5.2",5)]
-weightarr=scrape(pdfpath)
+weightarr=[("5.1",5),("3",3),("2",2),("1",1),("1",1),("2",1),("5.2",5),("1",1)] #test sample
+#weightarr=scrape(pdfpath)
 arrlen=len(weightarr)
 weightstack=[]
 index=0
@@ -86,10 +86,13 @@ print(outdict)
 
 def getvalue(valindex:int): #returns key value(int, array or dictionary)
     #val is index of first key
+    global index 
     nextval:int=valindex+1
     if nextval>=arrlen: #out of bounds
+        index=nextval
         return weightarr[valindex][TEXT]
     elif weightarr[valindex][WEIGHT]<weightarr[nextval][WEIGHT]: 
+        index=nextval
         return weightarr[valindex][TEXT]
     elif weightarr[valindex][WEIGHT]>weightarr[nextval][WEIGHT]:
         return {weightarr[valindex][TEXT]:getvalue(nextval)}
@@ -99,8 +102,11 @@ def getvalue(valindex:int): #returns key value(int, array or dictionary)
         for i in range(nextval,arrlen-1):
             if weightarr[nextval][WEIGHT]==weightarr[i][WEIGHT]:
                 valarr.append(weightarr[i][TEXT])
+        index=i
         return valarr
 
-#outdict[weightarr[0][TEXT]]=getvalue(1)
+while(index<arrlen):
+    i=index
+    outdict[weightarr[i][TEXT]]=getvalue(i+1)
 
-#writejson(outdict)
+writejson(outdict)
