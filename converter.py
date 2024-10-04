@@ -17,8 +17,6 @@ def getweight(lines)->int:
     weight:int=int(lines['size'])
     if 'Bold' in lines['font']:
         weight+=1
-    if lines['text'].rstrip()[-1]==":":
-        weight+=1
     return weight
 
 def scrape(filePath):
@@ -37,15 +35,16 @@ def scrape(filePath):
     pdf.close()
     return results
 
-#weightarr=scrape(pdfpath)
-weightarr=[("5.1",5),("3",3),("5",5),("3.2",3)]
-#weightarr=scrape(pdfpath)
+#weightarr=[("5.1",5),("3",3),("2",2),("1",1),("1",1),("5.2",5)]
+weightarr=scrape(pdfpath)
+arrlen=len(weightarr)
 weightstack=[]
 index=0
 outdict={}
 
 
 '''
+NOT WORKING
 def getdict(arr:list):
     maxindex=0 #index of largest val
     subarr=[arr[maxindex],[]]
@@ -60,7 +59,7 @@ def getdict(arr:list):
         i+=1
     return subarr
 
-def getkey():
+def getvalue():
     global index #index of key
     i=index+1
     if i>=len(weightarr):
@@ -79,28 +78,29 @@ print("Weightarr: ",weightarr)
 weightstack.append(weightarr[index][WEIGHT])
 while (index<len(weightarr)):
     i=index
-    outdict[weightarr[i][TEXT]]=getkey()
+    outdict[weightarr[i][TEXT]]=getvalue()
 print(outdict)
 #writejson(outputdict)
 '''
 
-def getkey(): #returns dictionary (assuming no duplicate weights)
-    global index #index of key
-    i=index
-    j=i+1
-    valdict={}
-    if j>=len(weightarr):
-        index=len(weightarr)
-        return {"Footer": weightarr[-1][TEXT]}
-    elif weightarr[i][WEIGHT]>weightarr[j][WEIGHT]:
-        index=j+1
-        return {weightarr[j][TEXT]:getkey()}
-    else:index+=1
 
+def getvalue(valindex:int): #returns key value(int, array or dictionary)
+    #val is index of first key
+    nextval:int=valindex+1
+    if nextval>=arrlen: #out of bounds
+        return weightarr[valindex][TEXT]
+    elif weightarr[valindex][WEIGHT]<weightarr[nextval][WEIGHT]: 
+        return weightarr[valindex][TEXT]
+    elif weightarr[valindex][WEIGHT]>weightarr[nextval][WEIGHT]:
+        return {weightarr[valindex][TEXT]:getvalue(nextval)}
+    else:
+        valarr:list=[]
+        valarr.append(weightarr[valindex][TEXT])
+        for i in range(nextval,arrlen-1):
+            if weightarr[nextval][WEIGHT]==weightarr[i][WEIGHT]:
+                valarr.append(weightarr[i][TEXT])
+        return valarr
 
-while (index<len(weightarr)):
-    keyindex=index
-    outdict[weightarr[keyindex][TEXT]]=getkey()
+#outdict[weightarr[0][TEXT]]=getvalue(1)
 
-print(outdict)
-writejson(outdict)
+#writejson(outdict)
