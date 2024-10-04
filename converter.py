@@ -13,11 +13,21 @@ def writejson(content):
     with open(outpath,"w") as fp:
         fp.write(jsoncontent)
 
-def getweight(lines)->int:
+def getweight(lines,text)->int:
     weight:int=int(lines['size'])
     if 'Bold' in lines['font']:
         weight+=1
+    if text[-1]==":":
+        weight+=1
     return weight
+
+def getweighttup(lines)->tuple:
+    text=lines['text']
+    text=text.strip()
+    if text=="":
+        return None
+    weight=getweight(lines,text)
+    return (text,weight)
 
 def scrape(filePath):
     results = [] # list of tuples that store the information as (text, font size, font name) 
@@ -31,7 +41,9 @@ def scrape(filePath):
                 for span in spans:
                     data = span['spans']
                     for lines in data:
-                        results.append((lines['text'],getweight(lines))) #lines['font']
+                        tup=getweighttup(lines)
+                        if tup:
+                            results.append(getweighttup(lines))
     pdf.close()
     return results
 
@@ -46,6 +58,7 @@ def getvalue(keyindex:int): #returns key value(int, array or dictionary)
     #val is index of first key
     global index
     valindex=keyindex+1
+    print("Index at getvalue: ",valindex-1,"\Key: ",weightarr[valindex-1])
     nextval:int=valindex+1
     if nextval>=arrlen: #out of bounds
         index=nextval
