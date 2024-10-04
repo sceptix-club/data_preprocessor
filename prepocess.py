@@ -70,7 +70,7 @@ def process_pdf_to_json_with_subheadings(pdf_path, output_file):
     print(f"PDF data successfully converted to JSON with subheadings and saved to {output_file}")
 
 
-pdf_path = "/data/acetonitrile-hplc-grade-l (1).pdf"  
+pdf_path = "./data/acetonitrile-hplc-grade-l (1).pdf"  
 output_file = "acetonitrile_sds_with_subheadings.json"
 
 process_pdf_to_json_with_subheadings(pdf_path, output_file)
