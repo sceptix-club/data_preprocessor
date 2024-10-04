@@ -9,7 +9,7 @@ outpath:str="output.json"
 
 
 def writejson(content):
-    jsoncontent=json.dumps(content)
+    jsoncontent=json.dumps(content,indent=4)
     with open(outpath,"w") as fp:
         fp.write(jsoncontent)
 
@@ -42,9 +42,10 @@ weightstack=[]
 index=0
 outdict={}
 
-def getvalue(valindex:int): #returns key value(int, array or dictionary)
+def getvalue(keyindex:int): #returns key value(int, array or dictionary)
     #val is index of first key
-    global index 
+    global index
+    valindex=keyindex+1
     nextval:int=valindex+1
     if nextval>=arrlen: #out of bounds
         index=nextval
@@ -53,7 +54,9 @@ def getvalue(valindex:int): #returns key value(int, array or dictionary)
         index=nextval
         return weightarr[valindex][TEXT]
     elif weightarr[valindex][WEIGHT]>weightarr[nextval][WEIGHT]:
-        return {weightarr[valindex][TEXT]:getvalue(nextval)}
+        valdict={}
+        valdict[weightarr[valindex][TEXT]]=getvalue(nextval)
+        return valdict
     else:
         valarr:list=[]
         valarr.append(weightarr[valindex][TEXT])
@@ -65,6 +68,6 @@ def getvalue(valindex:int): #returns key value(int, array or dictionary)
 
 while(index<arrlen):
     i=index
-    outdict[weightarr[i][TEXT]]=getvalue(i+1)
+    outdict[weightarr[i][TEXT]]=getvalue(i)
 
 writejson(outdict)
