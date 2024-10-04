@@ -1,0 +1,80 @@
+{
+    "Identification": {
+        "Product Name": "Phosphoric acid, 85+% solution in water",
+        "Cat No.": ": AC424040000; AC424040025; AC424040100; AC424045000",
+        "Synonyms": "Orthophosphoric acid",
+        "Recommended Use": "Laboratory chemicals.",
+        "Uses advised against": "Food, drug, pesticide or biocidal product use.",
+        "Company": {
+            "Name": "Fisher Scientific Company Acros Organics",
+            "Address": "One Reagent Lane One Reagent Lane\nFair Lawn, NJ 07410 Fair Lawn, NJ 07410",
+            "Telephone": "(201) 796-7100"
+        }
+    },
+    "Emergency Contact": {
+        "Emergency Telephone Number": "For information US call: 001-800-ACROS-01 / Europe call: +32 14 57 52 11"
+    },
+    "Hazard Identification": {
+        "Classification": "This chemical is considered hazardous by the 2012 OSHA Hazard Communication Standard (29 CFR 1910.1200)",
+        "Signal Word": "Danger",
+        "Hazard Statements": "May be corrosive to metals",
+        "Precautionary Statements": {
+            "Prevention": "Wash face, hands and any exposed skin thoroughly after handling\nDo not eat, drink or smoke when using this product\nDo not breathe dust/fume/gas/mist/vapors/spray\nWear protective gloves/protective clothing/eye protection/face protection\nUse only outdoors or in a well-ventilated area\nKeep only in original container\nResponse\nImmediately call a POISON CENTER or doctor/physician\nInhalation\nIF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing\nSkin\nIF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower\nWash contaminated clothing before reuse",
+            "Eyes": "IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing",
+            "Disposal": "Dispose of contents/container to an approved waste disposal plant",
+            "Hazards not otherwise classified (HNOC)": "(HNOC)"
+        }
+    },
+    "Composition/Information on Ingredients": {
+        "Component": "CAS No Weight %",
+        "CAS No": "7664-38-2",
+        "Weight %": "Orthophosphoric acid 7664-38-2 >/= 85"
+    },
+    "First Aid Measures": {
+        "General Advice": "Show this safety data sheet to the doctor in attendance. Immediate medical attention is",
+        "Eye Contact": "Rinse immediately with plenty of water, also under the eyelids, for at least 15 minutes.",
+        "Skin Contact": "Wash off immediately with plenty of water for at least 15 minutes. Remove and wash",
+        "Inhalation": "IF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing",
+        "Ingestion": "Rinse mouth"
+    },
+    "Fire Fighting Measures": {
+        "Flash Point": "No information available",
+        "Autoignition Temperature": "No information available",
+        "Explosion Limits": "Upper No data available"
+    },
+    "Handling and Storage": {
+        "Handling": "and storage",
+        "Storage": "Store locked up"
+    },
+    "Exposure Controls": {
+        "Engineering Measures": "Use only under a chemical fume hood. Ensure adequate ventilation, especially in confined",
+        "Eye/face Protection": "Wear appropriate protective eyeglasses or chemical safety goggles as described by",
+        "Respiratory Protection": "Follow the OSHA respirator regulations found in 29 CFR 1910.134 or European Standard"
+    },
+    "Physical and Chemical Properties": {
+        "Physical State": "Liquid",
+        "Appearance": "Clear, Viscous",
+        "Odor": "Odorless",
+        "pH": "<  2",
+        "Melting Point/Range": "21  \u00b0C  /  69.8  \u00b0F",
+        "Boiling Point/Range": "158  \u00b0C  /  316.4  \u00b0F",
+        "Vapor Pressure": "2 hPa @ 20\u00b0C",
+        "Solubility": "No information available"
+    },
+    "Stability and Reactivity": {
+        "Stability": "and reactivity",
+        "Incompatible Materials": ".  Strong"
+    },
+    "Toxicological Information": {
+        "Acute Toxicity": "Product Information"
+    },
+    "Ecological Information": {
+        "Ecotoxicity": "Do not empty into drains. Large amounts will affect pH and harm aquatic organisms."
+    },
+    "Disposal Considerations": {
+        "Waste Disposal Methods": "Chemical waste generators must determine whether a discarded chemical is classified as a"
+    },
+    "Transport Information": {
+        "DOT": "UN-No UN1805"
+    }
+}

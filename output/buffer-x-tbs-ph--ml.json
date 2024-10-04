@@ -1,0 +1,75 @@
+{
+    "Identification": {
+        "Product Name": "Tris Buffered Saline (TBS), 10X Solution",
+        "Cat No.": ": BP2471-1; BP2471-100; BP2471-500",
+        "Synonyms": "No information available",
+        "Recommended Use": "Laboratory chemicals.",
+        "Uses advised against": "Food, drug, pesticide or biocidal product use.",
+        "Company": {
+            "Name": "Fisher Scientific Company",
+            "Address": "One Reagent Lane\nFair Lawn, NJ 07410",
+            "Telephone": "(201) 796-7100"
+        }
+    },
+    "Emergency Contact": {
+        "Emergency Telephone Number": "CHEMTREC\u00d2, Inside the USA: 800-424-9300"
+    },
+    "Hazard Identification": {
+        "Classification": "Classification under 2012 OSHA Hazard Communication Standard (29 CFR 1910.1200)",
+        "Precautionary Statements": {
+            "Disposal": "considerations",
+            "Hazards not otherwise classified (HNOC)": "(HNOC)"
+        }
+    },
+    "Composition/Information on Ingredients": {
+        "Component": "CAS No Weight %",
+        "CAS No": "Weight %",
+        "Weight %": "______________________________________________________________________________________________"
+    },
+    "First Aid Measures": {
+        "Eye Contact": "Rinse immediately with plenty of water, also under the eyelids, for at least 15 minutes. Get",
+        "Skin Contact": "Wash off immediately with plenty of water for at least 15 minutes. Get medical attention if",
+        "Inhalation": "Remove to fresh air. If breathing is difficult, give oxygen. Get medical attention.",
+        "Ingestion": "Do NOT induce vomiting. Get medical attention if symptoms occur."
+    },
+    "Fire Fighting Measures": {
+        "Flash Point": "No information available",
+        "Autoignition Temperature": "No information available",
+        "Explosion Limits": "Upper No data available"
+    },
+    "Handling and Storage": {
+        "Handling": "and storage",
+        "Storage": ". Keep containers tightly closed in a dry, cool and well-ventilated place."
+    },
+    "Exposure Controls": {
+        "Engineering Measures": "None under normal use conditions.",
+        "Eye/face Protection": "Wear appropriate protective eyeglasses or chemical safety goggles as described by",
+        "Respiratory Protection": "No protective equipment is needed under normal use conditions."
+    },
+    "Physical and Chemical Properties": {
+        "Physical State": "Liquid",
+        "Appearance": "Colorless",
+        "Odor": "No information available",
+        "pH": "7.4 - 7.5",
+        "Melting Point/Range": "No data available",
+        "Boiling Point/Range": ">  100  \u00b0C  /  >  212",
+        "Vapor Pressure": "No information available",
+        "Solubility": "Soluble in water"
+    },
+    "Stability and Reactivity": {
+        "Stability": "and reactivity",
+        "Incompatible Materials": "Strong oxidizing agents"
+    },
+    "Toxicological Information": {
+        "Acute Toxicity": "Product Information"
+    },
+    "Ecological Information": {
+        "Ecotoxicity": "Do not empty into drains."
+    },
+    "Disposal Considerations": {
+        "Waste Disposal Methods": "Chemical waste generators must determine whether a discarded chemical is classified as a"
+    },
+    "Transport Information": {
+        "DOT": "Not regulated"
+    }
+}

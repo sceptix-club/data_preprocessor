@@ -1,0 +1,79 @@
+{
+    "Identification": {
+        "Product Name": "2-Propanol",
+        "Cat No.": ": A464-1; A464-4; A464-4LC; A464RS-200; A464SK-4; A464SS50;",
+        "Synonyms": "2-Propanol; IPA; Isopropyl alcohol; Propan-2-ol; Isopropanol",
+        "Recommended Use": "Laboratory chemicals.",
+        "Uses advised against": "Food, drug, pesticide or biocidal product use.",
+        "Company": {
+            "Name": "Fisher Scientific Company",
+            "Address": "One Reagent Lane\nFair Lawn, NJ 07410",
+            "Telephone": "(201) 796-7100"
+        }
+    },
+    "Emergency Contact": {
+        "Emergency Telephone Number": "CHEMTREC\u00d2, Inside the USA: 800-424-9300"
+    },
+    "Hazard Identification": {
+        "Classification": "This chemical is considered hazardous by the 2012 OSHA Hazard Communication Standard (29 CFR 1910.1200)",
+        "Signal Word": "Danger",
+        "Hazard Statements": "Highly flammable liquid and vapor",
+        "Precautionary Statements": {
+            "Prevention": "Wash face, hands and any exposed skin thoroughly after handling\nDo not breathe dust/fume/gas/mist/vapors/spray\nUse only outdoors or in a well-ventilated area\nKeep away from heat/sparks/open flames/hot surfaces. - No smoking\nKeep container tightly closed\nGround/bond container and receiving equipment\nUse explosion-proof electrical/ventilating/lighting equipment\nUse only non-sparking tools\nTake precautionary measures against static discharge\nWear protective gloves/protective clothing/eye protection/face protection\nKeep cool\nResponse\nGet medical attention/advice if you feel unwell\nInhalation\nIF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing\nCall a POISON CENTER or doctor/physician if you feel unwell\nSkin\nIF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower",
+            "Eyes": "IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing",
+            "Disposal": "Dispose of contents/container to an approved waste disposal plant",
+            "Hazards not otherwise classified (HNOC)": "(HNOC)"
+        }
+    },
+    "Composition/Information on Ingredients": {
+        "Component": "CAS No Weight %",
+        "CAS No": "67-63-0",
+        "Weight %": "Isopropyl alcohol 67-63-0 >95"
+    },
+    "First Aid Measures": {
+        "Eye Contact": "Rinse immediately with plenty of water, also under the eyelids, for at least 15 minutes. Get",
+        "Skin Contact": "Wash off immediately with plenty of water for at least 15 minutes. Get medical attention if",
+        "Inhalation": "IF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing",
+        "Ingestion": "Do NOT induce vomiting. Get medical attention."
+    },
+    "Fire Fighting Measures": {
+        "Flash Point": "12  \u00b0C  /  53.6  \u00b0F",
+        "Autoignition Temperature": "425  \u00b0C  /  797  \u00b0F",
+        "Explosion Limits": "Upper 12 vol %"
+    },
+    "Handling and Storage": {
+        "Handling": "and storage",
+        "Storage": "Store in a well-ventilated place. Keep container tightly closed"
+    },
+    "Exposure Controls": {
+        "Engineering Measures": "Ensure that eyewash stations and safety showers are close to the workstation location. Use",
+        "Eye/face Protection": "Wear appropriate protective eyeglasses or chemical safety goggles as described by",
+        "Respiratory Protection": "When workers are facing concentrations above the exposure limit they must use"
+    },
+    "Physical and Chemical Properties": {
+        "Physical State": "Liquid",
+        "Appearance": "Colorless",
+        "Odor": "Alcohol-like",
+        "pH": "7   1% aq. sol",
+        "Melting Point/Range": "-89.5  \u00b0C  /  -129.1  \u00b0F",
+        "Boiling Point/Range": "81  -  83  \u00b0C  /  177.8  -  181.4  \u00b0F  @ 760 mmHg",
+        "Vapor Pressure": "43 mmHg  @  20 \u00b0C",
+        "Solubility": "Miscible with water"
+    },
+    "Stability and Reactivity": {
+        "Stability": "and reactivity",
+        "Incompatible Materials": ".  Strong oxidizing agents. Acids."
+    },
+    "Toxicological Information": {
+        "Acute Toxicity": "Product Information"
+    },
+    "Ecological Information": {
+        "Ecotoxicity": ". Do not empty into drains."
+    },
+    "Disposal Considerations": {
+        "Waste Disposal Methods": "Chemical waste generators must determine whether a discarded chemical is classified as a"
+    },
+    "Transport Information": {
+        "DOT": "UN-No UN1219"
+    }
+}

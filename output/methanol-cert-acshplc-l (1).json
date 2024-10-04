@@ -1,0 +1,79 @@
+{
+    "Identification": {
+        "Product Name": "Methanol",
+        "Cat No.": ": A452-1; A452-4; A452-4LC; A452N1-19; A452N2-19; A452POP-50;",
+        "Synonyms": "Methyl alcohol",
+        "Recommended Use": "Laboratory chemicals.",
+        "Uses advised against": ".",
+        "Company": {
+            "Name": "Fisher Scientific Company",
+            "Address": "One Reagent Lane\nFair Lawn, NJ 07410",
+            "Telephone": "(201) 796-7100"
+        }
+    },
+    "Emergency Contact": {
+        "Emergency Telephone Number": "CHEMTREC\u00d2, Inside the USA: 800-424-9300"
+    },
+    "Hazard Identification": {
+        "Classification": "This chemical is considered hazardous by the 2012 OSHA Hazard Communication Standard (29 CFR 1910.1200)",
+        "Signal Word": "Danger",
+        "Hazard Statements": "Highly flammable liquid and vapor",
+        "Precautionary Statements": {
+            "Prevention": "Wash face, hands and any exposed skin thoroughly after handling\nDo not eat, drink or smoke when using this product\nWear protective gloves/protective clothing/eye protection/face protection\nUse only outdoors or in a well-ventilated area\nDo not breathe dust/fume/gas/mist/vapors/spray\nKeep away from heat/sparks/open flames/hot surfaces. - No smoking\nKeep container tightly closed\nGround/bond container and receiving equipment\nUse explosion-proof electrical/ventilating/lighting equipment\nUse only non-sparking tools\nTake precautionary measures against static discharge\nKeep cool\nResponse\nIF exposed: Call a POISON CENTER or doctor/physician\nInhalation\nIF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing\nCall a POISON CENTER or doctor/physician\nSkin\nCall a POISON CENTER or doctor/physician if you feel unwell\nWash contaminated clothing before reuse\nIF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower\nIngestion\nIF SWALLOWED: Immediately call a POISON CENTER or doctor/physician\nRinse mouth\nFire\nIn case of fire: Use CO2, dry chemical, or foam for extinction\nStorage\nStore locked up\nStore in a well-ventilated place. Keep container tightly closed",
+            "Disposal": "Dispose of contents/container to an approved waste disposal plant",
+            "Hazards not otherwise classified (HNOC)": "(HNOC)"
+        }
+    },
+    "Composition/Information on Ingredients": {
+        "Component": "CAS No Weight %",
+        "CAS No": "67-56-1",
+        "Weight %": "Methyl alcohol 67-56-1 >95"
+    },
+    "First Aid Measures": {
+        "General Advice": "Immediate medical attention is required. Show this safety data sheet to the doctor in",
+        "Eye Contact": "Rinse immediately with plenty of water, also under the eyelids, for at least 15 minutes.",
+        "Skin Contact": "Wash off immediately with plenty of water for at least 15 minutes. Immediate medical",
+        "Inhalation": "Toxicity - Vapors Category 3",
+        "Ingestion": "IF SWALLOWED: Immediately call a POISON CENTER or doctor/physician"
+    },
+    "Fire Fighting Measures": {
+        "Flash Point": "9.7  \u00b0C  /  49.5  \u00b0F",
+        "Autoignition Temperature": "455  \u00b0C  /  851  \u00b0F",
+        "Explosion Limits": "Upper 31.00 vol %"
+    },
+    "Handling and Storage": {
+        "Handling": "and storage",
+        "Storage": "Store locked up"
+    },
+    "Exposure Controls": {
+        "Engineering Measures": "Use only under a chemical fume hood. Use explosion-proof electrical/ventilating/lighting",
+        "Eye/face Protection": "Wear appropriate protective eyeglasses or chemical safety goggles as described by",
+        "Respiratory Protection": "Follow the OSHA respirator regulations found in 29 CFR 1910.134 or European Standard"
+    },
+    "Physical and Chemical Properties": {
+        "Physical State": "Liquid",
+        "Appearance": "Colorless",
+        "Odor": "Alcohol-like",
+        "pH": "Not applicable",
+        "Melting Point/Range": "-98  \u00b0C  /  -144.4  \u00b0F",
+        "Boiling Point/Range": "64.7  \u00b0C  /  148.5  \u00b0F  @ 760 mmHg",
+        "Vapor Pressure": "128 hPa  @  20 \u00b0C",
+        "Solubility": "Miscible with water"
+    },
+    "Stability and Reactivity": {
+        "Stability": "and reactivity",
+        "Incompatible Materials": "."
+    },
+    "Toxicological Information": {
+        "Acute Toxicity": "Product Information"
+    },
+    "Ecological Information": {
+        "Ecotoxicity": "."
+    },
+    "Disposal Considerations": {
+        "Waste Disposal Methods": "Should not be released into the environment."
+    },
+    "Transport Information": {
+        "DOT": "UN-No UN1230"
+    }
+}

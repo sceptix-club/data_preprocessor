@@ -1,0 +1,84 @@
+{
+    "Identification": {
+        "Product Name": "Product Name[:]*\\s*(.*)",
+        "Cat No.": "Cat No.[:]*\\s*(.*)",
+        "Synonyms": "Synonyms[:]*\\s*(.*)",
+        "Recommended Use": "Recommended Use[:]*\\s*(.*)",
+        "Uses advised against": "Uses advised against[:]*\\s*(.*)",
+        "Company": {
+            "Name": "Company[:]*\\s*(.*)",
+            "Address": "Company[:]*\\s*.*\\s*(.*\\s.*\\s.*\\d{5})",
+            "Telephone": "Tel[:]*\\s*(\\(\\d{3}\\) \\d{3}-\\d{4})"
+        }
+
+    },
+    "Emergency Contact": {
+        "Emergency Telephone Number": "Emergency Telephone Number[:]*\\s*(.*)"
+    },
+    "Hazard Identification": {
+        "Classification": "Classification[:]*\\s*(.*)",
+        "Signal Word": "Signal Word[:]*\\s*(.*)",
+        "Hazard Statements": "Hazard Statements[:]*\\s*(.*)",
+        "Precautionary Statements": {
+            "Prevention": "Prevention[:]*\\s*((?:.*\\n)+?)(?=(Eyes|Disposal|Hazards not otherwise classified|\\Z))",
+            "Response": "Response[:]*\\s*(.*)(?=Eyes|\\nEyes)",
+            "Eyes": "Eyes[:]*\\s*(.*)",
+            "Disposal": "Disposal[:]*\\s*(.*)",
+            "Hazards not otherwise classified (HNOC)": "Hazards not otherwise classified[:]*\\s*(.*)"
+        }
+    },
+    "Composition/Information on Ingredients": {
+        "Component": "Component[:]*\\s*(.*)",
+        "CAS No": "CAS No[:]*\\s*(.*)",
+        "Weight %": "Weight %[:]*\\s*(.*)"
+    },
+    "First Aid Measures": {
+        "General Advice": "General Advice[:]*\\s*(.*)",
+        "Eye Contact": "Eye Contact[:]*\\s*(.*)",
+        "Skin Contact": "Skin Contact[:]*\\s*(.*)",
+        "Inhalation": "Inhalation[:]*\\s*(.*)",
+        "Ingestion": "Ingestion[:]*\\s*(.*)"
+    },
+    "Fire Fighting Measures": {
+        "Flash Point": "Flash Point[:]*\\s*(.*)",
+        "Autoignition Temperature": "Autoignition Temperature[:]*\\s*(.*)",
+        "Explosion Limits": "Explosion Limits[:]*\\s*(.*)"
+    },
+    "Handling and Storage": {
+        "Handling": "Handling[:]*\\s*(.*)",
+        "Storage": "Storage[:]*\\s*(.*)"
+    },
+    "Exposure Controls": {
+        "Engineering Measures": "Engineering Measures[:]*\\s*(.*)",
+        "Eye/face Protection": "Eye/face Protection[:]*\\s*(.*)",
+        "Skin Protection": "Skin Protection[:]*\\s*(.*)",
+        "Respiratory Protection": "Respiratory Protection[:]*\\s*(.*)"
+    },
+    "Physical and Chemical Properties": {
+        "Physical State": "Physical State[:]*\\s*(.*)",
+        "Appearance": "Appearance[:]*\\s*(.*)",
+        "Odor": "Odor[:]*\\s*(.*)",
+        "pH": "pH[:]*\\s*(.*)",
+        "Melting Point/Range": "Melting Point/Range[:]*\\s*(.*)",
+        "Boiling Point/Range": "Boiling Point/Range[:]*\\s*(.*)",
+        "Vapor Pressure": "Vapor Pressure[:]*\\s*(.*)",
+        "Solubility": "Solubility[:]*\\s*(.*)"
+    },
+    "Stability and Reactivity": {
+        "Stability": "Stability[:]*\\s*(.*)",
+        "Incompatible Materials": "Incompatible Materials[:]*\\s*(.*)"
+    },
+    "Toxicological Information": {
+        "Acute Toxicity": "Acute Toxicity[:]*\\s*(.*)",
+        "Chronic Effects": "Chronic Effects[:]*\\s*(.*)"
+    },
+    "Ecological Information": {
+        "Ecotoxicity": "Ecotoxicity[:]*\\s*(.*)"
+    },
+    "Disposal Considerations": {
+        "Waste Disposal Methods": "Waste Disposal Methods[:]*\\s*(.*)"
+    },
+    "Transport Information": {
+        "DOT": "DOT[:]*\\s*(.*)"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "Identification": {
+        "Product Name": "Hexanes (Certified ACS)",
+        "Cat No.": ": H292-1; H292-4; H292-20; H292-200; H292-500; H292SK-4",
+        "Synonyms": "Hex",
+        "Recommended Use": "Laboratory chemicals.",
+        "Uses advised against": "Food, drug, pesticide or biocidal product use.",
+        "Company": {
+            "Name": "Fisher Scientific Company",
+            "Address": "One Reagent Lane\nFair Lawn, NJ 07410",
+            "Telephone": "(201) 796-7100"
+        }
+    },
+    "Emergency Contact": {
+        "Emergency Telephone Number": "CHEMTREC\u00d2, Inside the USA: 800-424-9300"
+    },
+    "Hazard Identification": {
+        "Classification": "This chemical is considered hazardous by the 2012 OSHA Hazard Communication Standard (29 CFR 1910.1200)",
+        "Signal Word": "Danger",
+        "Hazard Statements": "Highly flammable liquid and vapor",
+        "Precautionary Statements": {
+            "Prevention": "Obtain special instructions before use\nDo not handle until all safety precautions have been read and understood\nUse personal protective equipment as required\nWash face, hands and any exposed skin thoroughly after handling\nWear eye/face protection\nDo not breathe dust/fume/gas/mist/vapors/spray\nDo not eat, drink or smoke when using this product\nUse only outdoors or in a well-ventilated area\nKeep away from heat/sparks/open flames/hot surfaces. - No smoking\nKeep container tightly closed\nGround/bond container and receiving equipment\nUse explosion-proof electrical/ventilating/lighting equipment\nUse only non-sparking tools\nTake precautionary measures against static discharge\nKeep cool\nResponse\nIF exposed or concerned: Get medical attention/advice\nInhalation\nIF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing\nSkin\nIf skin irritation occurs: Get medical advice/attention\nIF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower\nWash contaminated clothing before reuse",
+            "Eyes": "IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing",
+            "Disposal": "Dispose of contents/container to an approved waste disposal plant",
+            "Hazards not otherwise classified (HNOC)": "(HNOC)"
+        }
+    },
+    "Composition/Information on Ingredients": {
+        "Component": "CAS No Weight %",
+        "CAS No": "92112-69-1",
+        "Weight %": "Hexane, branched and linear 92112-69-1 100"
+    },
+    "First Aid Measures": {
+        "General Advice": "If symptoms persist, call a physician.",
+        "Eye Contact": "Rinse immediately with plenty of water, also under the eyelids, for at least 15 minutes. Get",
+        "Skin Contact": "Wash off immediately with plenty of water for at least 15 minutes. If skin irritation persists,",
+        "Inhalation": "IF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing",
+        "Ingestion": "IF SWALLOWED: Immediately call a POISON CENTER or doctor/physician"
+    },
+    "Fire Fighting Measures": {
+        "Flash Point": "-22  \u00b0C  /  -7.6  \u00b0F",
+        "Autoignition Temperature": "223  \u00b0C  /  433.4  \u00b0F",
+        "Explosion Limits": "Upper No data available"
+    },
+    "Handling and Storage": {
+        "Handling": "and storage",
+        "Storage": "Store locked up"
+    },
+    "Exposure Controls": {
+        "Engineering Measures": "Use only under a chemical fume hood. Ensure that eyewash stations and safety showers",
+        "Eye/face Protection": "Wear appropriate protective eyeglasses or chemical safety goggles as described by",
+        "Respiratory Protection": "Follow the OSHA respirator regulations found in 29 CFR 1910.134 or European Standard"
+    },
+    "Physical and Chemical Properties": {
+        "Physical State": "Liquid",
+        "Appearance": "Colorless",
+        "Odor": "No information available",
+        "pH": "No information available",
+        "Melting Point/Range": "-95  \u00b0C  /  -139  \u00b0F",
+        "Boiling Point/Range": "69  \u00b0C  /  156.2  \u00b0F  @ 760 mmHg",
+        "Vapor Pressure": "160 mbar @ 20\u00b0C",
+        "Solubility": "Immiscible"
+    },
+    "Stability and Reactivity": {
+        "Stability": "and reactivity",
+        "Incompatible Materials": ".  Strong oxidizing agents."
+    },
+    "Toxicological Information": {
+        "Acute Toxicity": "Product Information"
+    },
+    "Ecological Information": {
+        "Ecotoxicity": "Toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment. Based on available literature. Data"
+    },
+    "Disposal Considerations": {
+        "Waste Disposal Methods": "Chemical waste generators must determine whether a discarded chemical is classified as a"
+    },
+    "Transport Information": {
+        "DOT": "UN-No UN1208"
+    }
+}

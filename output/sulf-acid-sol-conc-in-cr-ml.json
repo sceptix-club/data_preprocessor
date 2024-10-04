@@ -1,0 +1,80 @@
+{
+    "Identification": {
+        "Product Name": "Sulfuric Acid Concentrate (Certified)",
+        "Cat No.": ": SA213",
+        "Synonyms": "Hydrogen sulfate; Oil of Vitrol; Vitrol Brown Oil",
+        "Recommended Use": "Laboratory chemicals.",
+        "Uses advised against": "Food, drug, pesticide or biocidal product use.",
+        "Company": {
+            "Name": "Fisher Scientific Company",
+            "Address": "One Reagent Lane\nFair Lawn, NJ 07410",
+            "Telephone": "(201) 796-7100"
+        }
+    },
+    "Emergency Contact": {
+        "Emergency Telephone Number": "CHEMTREC\u00d2, Inside the USA: 800-424-9300"
+    },
+    "Hazard Identification": {
+        "Classification": "This chemical is considered hazardous by the 2012 OSHA Hazard Communication Standard (29 CFR 1910.1200)",
+        "Signal Word": "Danger",
+        "Hazard Statements": "Causes severe skin burns and eye damage",
+        "Precautionary Statements": {
+            "Prevention": "Do not breathe dust/fume/gas/mist/vapors/spray\nWash face, hands and any exposed skin thoroughly after handling\nWear protective gloves/protective clothing/eye protection/face protection\nUse only outdoors or in a well-ventilated area\nResponse\nImmediately call a POISON CENTER or doctor/physician\nInhalation\nIF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing\nSkin\nIF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower\nWash contaminated clothing before reuse",
+            "Eyes": "IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing",
+            "Disposal": "Dispose of contents/container to an approved waste disposal plant",
+            "Hazards not otherwise classified (HNOC)": "(HNOC)"
+        }
+    },
+    "Composition/Information on Ingredients": {
+        "Component": "CAS No Weight %",
+        "CAS No": "Weight %",
+        "Weight %": "Water 7732-18-5 51"
+    },
+    "First Aid Measures": {
+        "General Advice": "Show this safety data sheet to the doctor in attendance. Immediate medical attention is",
+        "Eye Contact": "Rinse immediately with plenty of water, also under the eyelids, for at least 15 minutes.",
+        "Skin Contact": "Wash off immediately with plenty of water for at least 15 minutes. Remove and wash",
+        "Inhalation": "IF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing",
+        "Ingestion": "IF SWALLOWED: Rinse mouth.  DO NOT induce vomiting"
+    },
+    "Fire Fighting Measures": {
+        "Flash Point": "No information available",
+        "Autoignition Temperature": "No information available",
+        "Explosion Limits": "Upper No data available"
+    },
+    "Handling and Storage": {
+        "Handling": "and storage",
+        "Storage": "Store locked up"
+    },
+    "Exposure Controls": {
+        "Engineering Measures": "Use only under a chemical fume hood. Ensure that eyewash stations and safety showers",
+        "Eye/face Protection": "Wear appropriate protective eyeglasses or chemical safety goggles as described by",
+        "Respiratory Protection": "Follow the OSHA respirator regulations found in 29 CFR 1910.134 or European Standard"
+    },
+    "Physical and Chemical Properties": {
+        "Physical State": "Liquid",
+        "Appearance": "Clear",
+        "Odor": "Odorless",
+        "pH": "0.03   (1N)",
+        "Melting Point/Range": "11  \u00b0C  /  51.8  \u00b0F",
+        "Boiling Point/Range": "105  -  325  \u00b0C  /  221  -  617  \u00b0F",
+        "Vapor Pressure": "< .00120 mmHg",
+        "Solubility": "Soluble in water"
+    },
+    "Stability and Reactivity": {
+        "Stability": "and reactivity",
+        "Incompatible Materials": ".  Strong"
+    },
+    "Toxicological Information": {
+        "Acute Toxicity": "Product Information"
+    },
+    "Ecological Information": {
+        "Ecotoxicity": "."
+    },
+    "Disposal Considerations": {
+        "Waste Disposal Methods": "Chemical waste generators must determine whether a discarded chemical is classified as a"
+    },
+    "Transport Information": {
+        "DOT": "UN-No UN2796"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "Identification": {
+        "Product Name": "Citric acid monohydrate",
+        "Cat No.": ": A104-3; A104-3LC; A104-10; A104-10LC; A104-250LB; A104-500;",
+        "Synonyms": "(Granular/Crystalline/Certified ACS/USP/EP/BP/JP)",
+        "Recommended Use": "Laboratory chemicals.",
+        "Uses advised against": "Food, drug, pesticide or biocidal product use.",
+        "Company": {
+            "Name": "Fisher Scientific Company",
+            "Address": "One Reagent Lane\nFair Lawn, NJ 07410",
+            "Telephone": "(201) 796-7100"
+        }
+    },
+    "Emergency Contact": {
+        "Emergency Telephone Number": "CHEMTREC\u00d2, Inside the USA: 800-424-9300"
+    },
+    "Hazard Identification": {
+        "Classification": "This chemical is considered hazardous by the 2012 OSHA Hazard Communication Standard (29 CFR 1910.1200)",
+        "Signal Word": "Warning",
+        "Hazard Statements": "May form combustible dust concentrations in air",
+        "Precautionary Statements": {
+            "Prevention": "Wash face, hands and any exposed skin thoroughly after handling\nWear eye/face protection",
+            "Eyes": "IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing",
+            "Disposal": "considerations",
+            "Hazards not otherwise classified (HNOC)": "(HNOC)"
+        }
+    },
+    "Composition/Information on Ingredients": {
+        "Component": "CAS No Weight %",
+        "CAS No": "5949-29-1",
+        "Weight %": "Citric acid monohydrate 5949-29-1 >95"
+    },
+    "First Aid Measures": {
+        "General Advice": "If symptoms persist, call a physician.",
+        "Eye Contact": "Rinse immediately with plenty of water, also under the eyelids, for at least 15 minutes. Get",
+        "Skin Contact": "Wash off immediately with plenty of water for at least 15 minutes. If skin irritation persists,",
+        "Inhalation": "Remove to fresh air. If not breathing, give artificial respiration. Get medical attention if",
+        "Ingestion": "Clean mouth with water and drink afterwards plenty of water. Get medical attention if"
+    },
+    "Fire Fighting Measures": {
+        "Flash Point": "173.9  \u00b0C  /  345  \u00b0F",
+        "Autoignition Temperature": "345  \u00b0C  /  653  \u00b0F",
+        "Explosion Limits": "Upper No data available"
+    },
+    "Handling and Storage": {
+        "Handling": "and storage",
+        "Storage": "Store in a well-ventilated place. Keep container tightly closed"
+    },
+    "Exposure Controls": {
+        "Engineering Measures": "Ensure that eyewash stations and safety showers are close to the workstation location.",
+        "Eye/face Protection": "Wear appropriate protective eyeglasses or chemical safety goggles as described by",
+        "Respiratory Protection": "Follow the OSHA respirator regulations found in 29 CFR 1910.134 or European Standard"
+    },
+    "Physical and Chemical Properties": {
+        "Physical State": "Solid",
+        "Appearance": "White",
+        "Odor": "Odorless",
+        "pH": "2.2   50g/L (20\u00b0C)",
+        "Melting Point/Range": "135  -  152  \u00b0C  /  275  -  305.6  \u00b0F",
+        "Boiling Point/Range": "No information available",
+        "Vapor Pressure": "No information available",
+        "Solubility": "Soluble in water"
+    },
+    "Stability and Reactivity": {
+        "Stability": "and reactivity",
+        "Incompatible Materials": "Strong oxidizing agents, Strong bases"
+    },
+    "Toxicological Information": {
+        "Acute Toxicity": "Product Information"
+    },
+    "Ecological Information": {
+        "Ecotoxicity": "Do not empty into drains. ."
+    },
+    "Disposal Considerations": {
+        "Waste Disposal Methods": "Chemical waste generators must determine whether a discarded chemical is classified as a"
+    },
+    "Transport Information": {
+        "DOT": "Not regulated"
+    }
+}
