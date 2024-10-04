@@ -1,5 +1,6 @@
-# Data Pre-processor
-De-constructing regular pdf's,docx format based information into structured JSON format.
+# PDF to Structured JSON Converter
+
+Welcome to the **PDF to Structured JSON Converter**! This project automates the extraction of information from **PDF files** (such as safety data sheets) and organizes it into a **parent-child structured JSON** format. This README provides all the necessary details to get you started with this project.
 
 ---
 
@@ -14,14 +15,24 @@ To contribute to our documentation:
    ```bash
    git clone https://github.com/<your/user/name>/data_preprocessor.git
    ```
+   replace <your/user/name> with the actual account name
+
 
 3. **Create a Branch:** Create a new branch for your contribution. 🌿
 
    ```bash
    git checkout -b <new-branch-name>
    ```
-4. **Virtual Evnvironment:** Create necessary virtual environtment or docker container; prefer if you look into docker and stuff.
-5. Use Git CLI to add your files and track it.
-6. Once pushed to your branch give a pull request.
+4. **Activate the Virtual Environment:** Before you run the script, you need to activate the virtual environment that contains all the required dependencies.
+
+For Windows: ```bash
+cd pdf-to-json-converter
+env\Scripts\activate```
+
+For macOS/Linux: ```bash
+cd pdf-to-json-converter
+source env/bin/activate```
 
 ---
+5. **Note:** Please change the input/output folders depending on the desired location
+_Happy Coding_😎
