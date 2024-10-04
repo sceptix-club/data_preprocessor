@@ -1,5 +1,7 @@
 import pymupdf
 
+doc = pymupdf.open("data/acetone-acs-l.pdf")
+page = doc[0]
 
 def flags_decomposer(flags):
     l = []
@@ -19,17 +21,13 @@ def flags_decomposer(flags):
         l.append("bold")
     return ", ".join(l)
 
-doc = pymupdf.open("./data/acetone-acs-l.pdf")
-page = doc[0]
+def print_text(doc):
+    text = chr(12).join([page.get_text() for page in doc])
 
+# read page text as a dictionary, suppressing extra spaces in CJK fonts
 blocks = page.get_text("dict", flags=11)["blocks"]
-for b in blocks:  
-    for l in b["lines"]:  
-        for s in l["spans"]:  
-            print("")
-            font_properties = "Font: '%s' (%s), size %g, color #%06x" % (
-                s["font"],  # font name
-                flags_decomposer(s["flags"]),  
-                s["size"],  # font size
-                s["color"],  # font color
-            )
+for b in blocks:  # iterate through the text blocks
+    for l in b["lines"]:  # iterate through the text lines
+        for s in l["spans"]:  # iterate through the text spans
+            print(s["origin"], s["text"])
+           
