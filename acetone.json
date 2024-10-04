@@ -1,0 +1,18 @@
+{
+    "Identification": {
+        "ProductName": "Acetone",
+        "CASNo": "67-64-1"
+    },
+    "HazardIdentification": {
+        "SignalWord": "Danger",
+        "HazardStatements": [
+            "Highly flammable liquid and vapor"
+        ]
+    },
+    "Composition": [
+        {
+            "Name": "CAS No",
+            "Percentage": ""
+        }
+    ]
+}
