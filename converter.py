@@ -42,48 +42,6 @@ weightstack=[]
 index=0
 outdict={}
 
-
-'''
-NOT WORKING
-def getdict(arr:list):
-    maxindex=0 #index of largest val
-    subarr=[arr[maxindex],[]]
-    i=maxindex+1
-    while(i<len(arr)):
-        if arr[maxindex][WEIGHT]>arr[i][WEIGHT]:
-            subarr[maxindex+1].append(arr[i])
-        if arr[maxindex][WEIGHT]<arr[i][WEIGHT]:
-            maxindex=i
-            subarr.append(arr[maxindex])
-            subarr.append([])
-        i+=1
-    return subarr
-
-def getvalue():
-    global index #index of key
-    i=index+1
-    if i>=len(weightarr):
-        return []
-    keyarr=[]
-    while(weightarr[i][WEIGHT]<weightstack[-1]):
-        keyarr.append(weightarr[i])
-        i+=1
-        if i>=len(weightarr):
-            break
-    index=i
-    return getdict(keyarr)
-
-
-print("Weightarr: ",weightarr)
-weightstack.append(weightarr[index][WEIGHT])
-while (index<len(weightarr)):
-    i=index
-    outdict[weightarr[i][TEXT]]=getvalue()
-print(outdict)
-#writejson(outputdict)
-'''
-
-
 def getvalue(valindex:int): #returns key value(int, array or dictionary)
     #val is index of first key
     global index 
