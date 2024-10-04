@@ -58,7 +58,6 @@ def getvalue(keyindex:int): #returns key value(int, array or dictionary)
     #val is index of first key
     global index
     valindex=keyindex+1
-    print("Index at getvalue: ",valindex-1,"\Key: ",weightarr[valindex-1])
     nextval:int=valindex+1
     if nextval>=arrlen: #out of bounds
         index=nextval
