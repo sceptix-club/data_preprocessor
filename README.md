@@ -26,11 +26,11 @@ To contribute to our documentation:
 4. **Activate the Virtual Environment:** Before you run the script, you need to activate the virtual environment that contains all the required dependencies.
 
 For Windows: ```bash
-cd pdf-to-json-converter
+cd data_preprocessor
 env\Scripts\activate```
 
 For macOS/Linux: ```bash
-cd pdf-to-json-converter
+cd data-preprocessor
 source env/bin/activate```
 
 ---
