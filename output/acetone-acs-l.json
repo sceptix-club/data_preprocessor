@@ -1,0 +1,80 @@
+{
+    "Identification": {
+        "Product Name": "Acetone",
+        "Cat No.": ": A9-4; A9-20; A9-200; A11-1; A11-4; A11-20; A11-200; A11S-4; A13-20;",
+        "Synonyms": "2-Propanone; Dimethyl ketone; (Certified ACS, HPLC, OPTIMA, Histological,",
+        "Recommended Use": "Laboratory chemicals.",
+        "Uses advised against": "Food, drug, pesticide or biocidal product use.",
+        "Company": {
+            "Name": "Fisher Scientific Company",
+            "Address": "One Reagent Lane\nFair Lawn, NJ 07410",
+            "Telephone": "(201) 796-7100"
+        }
+    },
+    "Emergency Contact": {
+        "Emergency Telephone Number": "CHEMTREC\u00d2, Inside the USA: 800-424-9300"
+    },
+    "Hazard Identification": {
+        "Classification": "______________________________________________________________________________________________",
+        "Signal Word": "Danger",
+        "Hazard Statements": "Highly flammable liquid and vapor",
+        "Precautionary Statements": {
+            "Prevention": "Wash face, hands and any exposed skin thoroughly after handling\nDo not breathe dust/fume/gas/mist/vapors/spray\nUse only outdoors or in a well-ventilated area\nKeep away from heat/sparks/open flames/hot surfaces. - No smoking\nKeep container tightly closed\nGround/bond container and receiving equipment\nUse explosion-proof electrical/ventilating/lighting equipment\nUse only non-sparking tools\nTake precautionary measures against static discharge\nWear protective gloves/protective clothing/eye protection/face protection\nKeep cool\nResponse\nGet medical attention/advice if you feel unwell\nInhalation\nIF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing\nCall a POISON CENTER or doctor/physician if you feel unwell\nSkin\nIF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower",
+            "Eyes": "IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing",
+            "Disposal": "______________________________________________________________________________________________",
+            "Hazards not otherwise classified (HNOC)": "(HNOC)"
+        }
+    },
+    "Composition/Information on Ingredients": {
+        "Component": "CAS No Weight %",
+        "CAS No": "67-64-1",
+        "Weight %": "Acetone 67-64-1 >95"
+    },
+    "First Aid Measures": {
+        "General Advice": "If symptoms persist, call a physician.",
+        "Eye Contact": "Rinse immediately with plenty of water, also under the eyelids, for at least 15 minutes. Get",
+        "Skin Contact": "Wash off immediately with plenty of water for at least 15 minutes. If skin irritation persists,",
+        "Inhalation": "IF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing",
+        "Ingestion": "Clean mouth with water and drink afterwards plenty of water."
+    },
+    "Fire Fighting Measures": {
+        "Flash Point": "-20  \u00b0C  /  -4  \u00b0F",
+        "Autoignition Temperature": "465  \u00b0C  /  869  \u00b0F",
+        "Explosion Limits": "Upper 12.8 vol %"
+    },
+    "Handling and Storage": {
+        "Handling": "and storage",
+        "Storage": "Store in a well-ventilated place. Keep container tightly closed"
+    },
+    "Exposure Controls": {
+        "Engineering Measures": "Ensure adequate ventilation, especially in confined areas. Ensure that eyewash stations",
+        "Eye/face Protection": "Wear appropriate protective eyeglasses or chemical safety goggles as described by",
+        "Respiratory Protection": "Follow the OSHA respirator regulations found in 29 CFR 1910.134 or European Standard"
+    },
+    "Physical and Chemical Properties": {
+        "Physical State": "Liquid",
+        "Appearance": "Colorless",
+        "Odor": "sweet",
+        "pH": "7",
+        "Melting Point/Range": "-95  \u00b0C  /  -139  \u00b0F",
+        "Boiling Point/Range": "56  \u00b0C  /  132.8  \u00b0F",
+        "Vapor Pressure": "247 mbar  @  20 \u00b0C",
+        "Solubility": "Soluble in water"
+    },
+    "Stability and Reactivity": {
+        "Stability": "and reactivity",
+        "Incompatible Materials": ".  Strong oxidizing agents."
+    },
+    "Toxicological Information": {
+        "Acute Toxicity": "Product Information"
+    },
+    "Ecological Information": {
+        "Ecotoxicity": "."
+    },
+    "Disposal Considerations": {
+        "Waste Disposal Methods": "Chemical waste generators must determine whether a discarded chemical is classified as a"
+    },
+    "Transport Information": {
+        "DOT": "UN-No UN1090"
+    }
+}

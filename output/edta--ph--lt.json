@@ -1,0 +1,81 @@
+{
+    "Identification": {
+        "Product Name": "EDTA 0.5M Solution of pH 8.0 (for DNA Work)",
+        "Cat No.": ": BP2482-1, BP2482-4, BP2482-20, BP2482-100, BP2482-500",
+        "Synonyms": "No information available",
+        "Recommended Use": "Laboratory chemicals.",
+        "Uses advised against": "Food, drug, pesticide or biocidal product use.",
+        "Company": {
+            "Name": "Fisher Scientific Company",
+            "Address": "One Reagent Lane\nFair Lawn, NJ 07410",
+            "Telephone": "(201) 796-7100"
+        }
+    },
+    "Emergency Contact": {
+        "Emergency Telephone Number": "CHEMTREC\u00d2, Inside the USA: 800-424-9300"
+    },
+    "Hazard Identification": {
+        "Classification": "This chemical is considered hazardous by the 2012 OSHA Hazard Communication Standard (29 CFR 1910.1200)",
+        "Signal Word": "Warning",
+        "Hazard Statements": "Causes serious eye irritation",
+        "Precautionary Statements": {
+            "Prevention": "Wash face, hands and any exposed skin thoroughly after handling\nWear eye/face protection\nDo not breathe dust/fume/gas/mist/vapors/spray\nResponse\nGet medical attention/advice if you feel unwell",
+            "Response": "Get medical attention/advice if you feel unwell",
+            "Eyes": "IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing",
+            "Disposal": "Dispose of contents/container to an approved waste disposal plant",
+            "Hazards not otherwise classified (HNOC)": "(HNOC)"
+        }
+    },
+    "Composition/Information on Ingredients": {
+        "Component": "CAS No Weight %",
+        "CAS No": "Weight %",
+        "Weight %": "Water 7732-18-5 > 85"
+    },
+    "First Aid Measures": {
+        "General Advice": "If symptoms persist, call a physician.",
+        "Eye Contact": "Rinse immediately with plenty of water, also under the eyelids, for at least 15 minutes. Get",
+        "Skin Contact": "Wash off immediately with plenty of water for at least 15 minutes. If skin irritation persists,",
+        "Inhalation": "Remove to fresh air. If not breathing, give artificial respiration. Get medical attention if",
+        "Ingestion": "Clean mouth with water and drink afterwards plenty of water."
+    },
+    "Fire Fighting Measures": {
+        "Flash Point": "Not applicable",
+        "Autoignition Temperature": "Not applicable",
+        "Explosion Limits": "Upper No data available"
+    },
+    "Handling and Storage": {
+        "Handling": "and storage",
+        "Storage": ". Keep containers tightly closed in a dry, cool and well-ventilated place."
+    },
+    "Exposure Controls": {
+        "Engineering Measures": "Ensure that eyewash stations and safety showers are close to the workstation location.",
+        "Eye/face Protection": "Wear appropriate protective eyeglasses or chemical safety goggles as described by",
+        "Respiratory Protection": "Follow the OSHA respirator regulations found in 29 CFR 1910.134 or European Standard"
+    },
+    "Physical and Chemical Properties": {
+        "Physical State": "Liquid",
+        "Appearance": "Colorless",
+        "Odor": "Slight",
+        "pH": "8.0 (for DNA Work)",
+        "Melting Point/Range": "No data available",
+        "Boiling Point/Range": "No information available",
+        "Vapor Pressure": "No information available",
+        "Solubility": "miscible"
+    },
+    "Stability and Reactivity": {
+        "Stability": "and reactivity",
+        "Incompatible Materials": "Strong oxidizing agents"
+    },
+    "Toxicological Information": {
+        "Acute Toxicity": "Product Information"
+    },
+    "Ecological Information": {
+        "Ecotoxicity": "Contains a substance which is:. Toxic to aquatic organisms. The product contains following substances which are hazardous for"
+    },
+    "Disposal Considerations": {
+        "Waste Disposal Methods": "Chemical waste generators must determine whether a discarded chemical is classified as a"
+    },
+    "Transport Information": {
+        "DOT": "Not regulated"
+    }
+}

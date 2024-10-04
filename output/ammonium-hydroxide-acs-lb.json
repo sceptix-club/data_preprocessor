@@ -1,0 +1,80 @@
+{
+    "Identification": {
+        "Product Name": "Ammonium hydroxide",
+        "Cat No.": ": A667-212, A669-212, A669-500, A669P-500; A669-612GAL,",
+        "Synonyms": "Ammonia solution; Ammonia water; Ammonium hydrate",
+        "Recommended Use": "Laboratory chemicals.",
+        "Uses advised against": "Food, drug, pesticide or biocidal product use.",
+        "Company": {
+            "Name": "Fisher Scientific Company",
+            "Address": "One Reagent Lane\nFair Lawn, NJ 07410",
+            "Telephone": "(201) 796-7100"
+        }
+    },
+    "Emergency Contact": {
+        "Emergency Telephone Number": "CHEMTREC\u00d2, Inside the USA: 800-424-9300"
+    },
+    "Hazard Identification": {
+        "Classification": "This chemical is considered hazardous by the 2012 OSHA Hazard Communication Standard (29 CFR 1910.1200)",
+        "Signal Word": "Danger",
+        "Hazard Statements": "Causes severe skin burns and eye damage",
+        "Precautionary Statements": {
+            "Prevention": "Do not breathe dust/fume/gas/mist/vapors/spray\nWash face, hands and any exposed skin thoroughly after handling\nWear protective gloves/protective clothing/eye protection/face protection\nUse only outdoors or in a well-ventilated area\nResponse\nImmediately call a POISON CENTER or doctor/physician\nInhalation\nIF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing\nSkin\nIF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower\nWash contaminated clothing before reuse",
+            "Eyes": "IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing",
+            "Disposal": "Dispose of contents/container to an approved waste disposal plant",
+            "Hazards not otherwise classified (HNOC)": "(HNOC)"
+        }
+    },
+    "Composition/Information on Ingredients": {
+        "Component": "CAS No Weight %",
+        "CAS No": "Weight %",
+        "Weight %": "Water 7732-18-5 70-75"
+    },
+    "First Aid Measures": {
+        "General Advice": "Immediate medical attention is required. Show this safety data sheet to the doctor in",
+        "Eye Contact": "Rinse immediately with plenty of water, also under the eyelids, for at least 15 minutes.",
+        "Skin Contact": "Wash off immediately with plenty of water for at least 15 minutes. Immediate medical",
+        "Inhalation": "IF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing",
+        "Ingestion": "IF SWALLOWED: Rinse mouth.  DO NOT induce vomiting"
+    },
+    "Fire Fighting Measures": {
+        "Flash Point": "No information available",
+        "Autoignition Temperature": "651  \u00b0C  /  1203.8  \u00b0F",
+        "Explosion Limits": "Upper No data available"
+    },
+    "Handling and Storage": {
+        "Handling": "and storage",
+        "Storage": "Store locked up"
+    },
+    "Exposure Controls": {
+        "Engineering Measures": "Use only under a chemical fume hood. Ensure that eyewash stations and safety showers",
+        "Eye/face Protection": "Wear appropriate protective eyeglasses or chemical safety goggles as described by",
+        "Respiratory Protection": "Follow the OSHA respirator regulations found in 29 CFR 1910.134 or European Standard"
+    },
+    "Physical and Chemical Properties": {
+        "Physical State": "Liquid",
+        "Appearance": "Colorless",
+        "Odor": "Ammonia-like",
+        "pH": "12",
+        "Melting Point/Range": "-57  \u00b0C  /  -70.6  \u00b0F",
+        "Boiling Point/Range": "38  \u00b0C  /  100.4  \u00b0F",
+        "Vapor Pressure": "500 hPa  @  20 \u00b0C",
+        "Solubility": "Soluble in water"
+    },
+    "Stability and Reactivity": {
+        "Stability": "and reactivity",
+        "Incompatible Materials": ".  Strong oxidizing agents. Metals. Acids. Fluorine. Halogens."
+    },
+    "Toxicological Information": {
+        "Acute Toxicity": "Product Information"
+    },
+    "Ecological Information": {
+        "Ecotoxicity": "Very toxic to aquatic organisms. The product contains following substances which are hazardous for the environment."
+    },
+    "Disposal Considerations": {
+        "Waste Disposal Methods": "Chemical waste generators must determine whether a discarded chemical is classified as a"
+    },
+    "Transport Information": {
+        "DOT": "UN-No UN2672"
+    }
+}

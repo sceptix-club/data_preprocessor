@@ -1,0 +1,75 @@
+{
+    "Identification": {
+        "Product Name": "Sodium phosphate dibasic anhydrous",
+        "Cat No.": ": S375-12; S375-212; S375-500; S379-12; S379-50; S379212;",
+        "Synonyms": "Disodium hydrogen phosphate; Monohydrogen sodium phosphate",
+        "Recommended Use": "Laboratory chemicals.",
+        "Uses advised against": "Food, drug, pesticide or biocidal product use.",
+        "Company": {
+            "Name": "Fisher Scientific Company",
+            "Address": "One Reagent Lane\nFair Lawn, NJ 07410",
+            "Telephone": "(201) 796-7100"
+        }
+    },
+    "Emergency Contact": {
+        "Emergency Telephone Number": "CHEMTREC\u00d2, Inside the USA: 800-424-9300"
+    },
+    "Hazard Identification": {
+        "Classification": "Classification under 2012 OSHA Hazard Communication Standard (29 CFR 1910.1200)",
+        "Precautionary Statements": {
+            "Disposal": "considerations",
+            "Hazards not otherwise classified (HNOC)": "(HNOC)"
+        }
+    },
+    "Composition/Information on Ingredients": {
+        "Component": "CAS No Weight %",
+        "CAS No": "7558-79-4",
+        "Weight %": "Sodium phosphate dibasic 7558-79-4 >95"
+    },
+    "First Aid Measures": {
+        "Eye Contact": "Rinse immediately with plenty of water, also under the eyelids, for at least 15 minutes. Get",
+        "Skin Contact": "Wash off immediately with plenty of water for at least 15 minutes. Get medical attention",
+        "Inhalation": "Remove to fresh air. Get medical attention immediately if symptoms occur.",
+        "Ingestion": "Clean mouth with water and drink afterwards plenty of water. Get medical attention if"
+    },
+    "Fire Fighting Measures": {
+        "Flash Point": "No information available",
+        "Autoignition Temperature": "No information available",
+        "Explosion Limits": "Upper No data available"
+    },
+    "Handling and Storage": {
+        "Handling": "and storage",
+        "Storage": ". Keep containers tightly closed in a dry, cool and well-ventilated place.  Incompatible"
+    },
+    "Exposure Controls": {
+        "Engineering Measures": "Ensure adequate ventilation, especially in confined areas. Ensure that eyewash stations",
+        "Eye/face Protection": "Wear appropriate protective eyeglasses or chemical safety goggles as described by",
+        "Respiratory Protection": "Follow the OSHA respirator regulations found in 29 CFR 1910.134 or European Standard"
+    },
+    "Physical and Chemical Properties": {
+        "Physical State": "Powder Solid",
+        "Appearance": "White",
+        "Odor": "Odorless",
+        "pH": "8.7-9.3  @ 20\u00b0C   (5%)",
+        "Melting Point/Range": "No data available",
+        "Boiling Point/Range": "No information available",
+        "Vapor Pressure": "No information available",
+        "Solubility": "Slightly soluble in water"
+    },
+    "Stability and Reactivity": {
+        "Stability": "and reactivity",
+        "Incompatible Materials": "Strong oxidizing agents, Strong acids, Strong bases"
+    },
+    "Toxicological Information": {
+        "Acute Toxicity": "Product Information"
+    },
+    "Ecological Information": {
+        "Ecotoxicity": "______________________________________________________________________________________________"
+    },
+    "Disposal Considerations": {
+        "Waste Disposal Methods": "Chemical waste generators must determine whether a discarded chemical is classified as a"
+    },
+    "Transport Information": {
+        "DOT": "Not regulated"
+    }
+}

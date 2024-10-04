@@ -1,0 +1,80 @@
+{
+    "Identification": {
+        "Product Name": "Nitric acid (65 - 70%)",
+        "Cat No.": ": A198C-212, A200-212, A200-212LC, A200-500, A200-500LC,",
+        "Synonyms": "Azotic acid; Engraver's acid; Aqua fortis",
+        "Recommended Use": "Laboratory chemicals.",
+        "Uses advised against": "Food, drug, pesticide or biocidal product use.",
+        "Company": {
+            "Name": "Fisher Scientific Company",
+            "Address": "One Reagent Lane\nFair Lawn, NJ 07410",
+            "Telephone": "(201) 796-7100"
+        }
+    },
+    "Emergency Contact": {
+        "Emergency Telephone Number": "CHEMTREC\u00d2, Inside the USA: 800-424-9300"
+    },
+    "Hazard Identification": {
+        "Classification": "This chemical is considered hazardous by the 2012 OSHA Hazard Communication Standard (29 CFR 1910.1200)",
+        "Signal Word": "Danger",
+        "Hazard Statements": "May intensify fire; oxidizer",
+        "Precautionary Statements": {
+            "Prevention": "Do not breathe dust/fume/gas/mist/vapors/spray\nWash face, hands and any exposed skin thoroughly after handling\nWear protective gloves/protective clothing/eye protection/face protection\nUse only outdoors or in a well-ventilated area\nKeep away from heat/sparks/open flames/hot surfaces. - No smoking\nKeep/Store away from clothing/ other combustible materials\nTake any precaution to avoid mixing with combustibles\nKeep only in original container\nWear respiratory protection\nResponse\nImmediately call a POISON CENTER or doctor/physician\nInhalation\nIF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing\nImmediately call a POISON CENTER or doctor/physician\nSkin\nIF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower\nWash contaminated clothing before reuse",
+            "Eyes": "IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing",
+            "Disposal": "Dispose of contents/container to an approved waste disposal plant",
+            "Hazards not otherwise classified (HNOC)": "(HNOC)"
+        }
+    },
+    "Composition/Information on Ingredients": {
+        "Component": "CAS No Weight %",
+        "CAS No": "7697-37-2",
+        "Weight %": "Nitric acid \u2026% [C \u2264 70 %] 7697-37-2 65 - 70"
+    },
+    "First Aid Measures": {
+        "General Advice": "Immediate medical attention is required. Show this safety data sheet to the doctor in",
+        "Eye Contact": "Rinse immediately with plenty of water, also under the eyelids, for at least 15 minutes.",
+        "Skin Contact": "Wash off immediately with plenty of water for at least 15 minutes. Remove and wash",
+        "Inhalation": "Toxicity - Vapors Category 3",
+        "Ingestion": "IF SWALLOWED: Rinse mouth.  DO NOT induce vomiting"
+    },
+    "Fire Fighting Measures": {
+        "Flash Point": "Not applicable",
+        "Autoignition Temperature": "No information available",
+        "Explosion Limits": "Upper No data available"
+    },
+    "Handling and Storage": {
+        "Handling": "and storage",
+        "Storage": "Store locked up"
+    },
+    "Exposure Controls": {
+        "Engineering Measures": "Use only under a chemical fume hood. Ensure that eyewash stations and safety showers",
+        "Eye/face Protection": "Wear appropriate protective eyeglasses or chemical safety goggles as described by",
+        "Respiratory Protection": "Follow the OSHA respirator regulations found in 29 CFR 1910.134 or European Standard"
+    },
+    "Physical and Chemical Properties": {
+        "Physical State": "Liquid",
+        "Appearance": "Clear Colorless, Light yellow",
+        "Odor": "Strong Acrid",
+        "pH": "<  1.0   (0.1M)",
+        "Melting Point/Range": "-41  \u00b0C  /  -41.8  \u00b0F",
+        "Boiling Point/Range": "Not applicable",
+        "Vapor Pressure": "0.94 kPa (20\u00b0C)",
+        "Solubility": "miscible"
+    },
+    "Stability and Reactivity": {
+        "Stability": "and reactivity",
+        "Incompatible Materials": ".  Combustible material. Strong bases."
+    },
+    "Toxicological Information": {
+        "Acute Toxicity": "Product Information"
+    },
+    "Ecological Information": {
+        "Ecotoxicity": "Do not empty into drains. Large amounts will affect pH and harm aquatic organisms."
+    },
+    "Disposal Considerations": {
+        "Waste Disposal Methods": "Chemical waste generators must determine whether a discarded chemical is classified as a"
+    },
+    "Transport Information": {
+        "DOT": "UN-No UN2031"
+    }
+}

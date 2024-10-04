@@ -1,0 +1,75 @@
+{
+    "Identification": {
+        "Product Name": "Sodium chloride",
+        "Cat No.": ": S271-1; S271-3; S271-10; S271-10LC; S271-5; S271-50; S271-50LC;",
+        "Synonyms": "Halite; Common salt; Rock salt",
+        "Recommended Use": "Laboratory chemicals.",
+        "Uses advised against": "Food, drug, pesticide or biocidal product use.",
+        "Company": {
+            "Name": "Fisher Scientific Company",
+            "Address": "One Reagent Lane\nFair Lawn, NJ 07410",
+            "Telephone": "(201) 796-7100"
+        }
+    },
+    "Emergency Contact": {
+        "Emergency Telephone Number": "CHEMTREC\u00d2, Inside the USA: 800-424-9300"
+    },
+    "Hazard Identification": {
+        "Classification": "Classification under 2012 OSHA Hazard Communication Standard (29 CFR 1910.1200)",
+        "Precautionary Statements": {
+            "Disposal": "considerations",
+            "Hazards not otherwise classified (HNOC)": "(HNOC)"
+        }
+    },
+    "Composition/Information on Ingredients": {
+        "Component": "CAS No Weight %",
+        "CAS No": "7647-14-5",
+        "Weight %": "Sodium chloride 7647-14-5 >95"
+    },
+    "First Aid Measures": {
+        "Eye Contact": "Rinse immediately with plenty of water, also under the eyelids, for at least 15 minutes. Get",
+        "Skin Contact": "Wash off immediately with plenty of water for at least 15 minutes. Get medical attention",
+        "Inhalation": "Remove to fresh air. Get medical attention immediately if symptoms occur.",
+        "Ingestion": "Get medical attention if symptoms occur. Clean mouth with water and drink afterwards"
+    },
+    "Fire Fighting Measures": {
+        "Flash Point": "No information available",
+        "Autoignition Temperature": "No information available",
+        "Explosion Limits": "Upper No data available"
+    },
+    "Handling and Storage": {
+        "Handling": "and storage",
+        "Storage": ". Keep containers tightly closed in a dry, cool and well-ventilated place. Store under an inert"
+    },
+    "Exposure Controls": {
+        "Engineering Measures": "Ensure adequate ventilation, especially in confined areas. Ensure that eyewash stations",
+        "Eye/face Protection": "Wear appropriate protective eyeglasses or chemical safety goggles as described by",
+        "Respiratory Protection": "Follow the OSHA respirator regulations found in 29 CFR 1910.134 or European Standard"
+    },
+    "Physical and Chemical Properties": {
+        "Physical State": "Solid",
+        "Appearance": "White",
+        "Odor": "Odorless",
+        "pH": "5.0-8.0  @ 20\u00b0C;   5% aq.sol",
+        "Melting Point/Range": "801  \u00b0C  /  1473.8  \u00b0F",
+        "Boiling Point/Range": "1461  \u00b0C  /  2661.8  \u00b0F  @ 760 mmHg",
+        "Vapor Pressure": "1 mmHg  @  865 \u00b0C",
+        "Solubility": "Soluble in water"
+    },
+    "Stability and Reactivity": {
+        "Stability": "and reactivity",
+        "Incompatible Materials": ".  Strong oxidizing agents."
+    },
+    "Toxicological Information": {
+        "Acute Toxicity": "Product Information See actual entry in RTECS for complete information."
+    },
+    "Ecological Information": {
+        "Ecotoxicity": "Do not empty into drains. ."
+    },
+    "Disposal Considerations": {
+        "Waste Disposal Methods": "Chemical waste generators must determine whether a discarded chemical is classified as a"
+    },
+    "Transport Information": {
+        "DOT": "Not regulated"
+    }
+}

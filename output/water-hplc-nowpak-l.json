@@ -1,0 +1,75 @@
+{
+    "Identification": {
+        "Product Name": "Water",
+        "Cat No.": ": W5-1; W5-4; W5-4LC; W5N1-19; W5N2-19; W5SK-1; W5SK-4",
+        "Synonyms": "No information available",
+        "Recommended Use": "Laboratory chemicals.",
+        "Uses advised against": "Food, drug, pesticide or biocidal product use.",
+        "Company": {
+            "Name": "Fisher Scientific Company",
+            "Address": "One Reagent Lane\nFair Lawn, NJ 07410",
+            "Telephone": "(201) 796-7100"
+        }
+    },
+    "Emergency Contact": {
+        "Emergency Telephone Number": "CHEMTREC\u00d2, Inside the USA: 800-424-9300"
+    },
+    "Hazard Identification": {
+        "Classification": "Classification under 2012 OSHA Hazard Communication Standard (29 CFR 1910.1200)",
+        "Precautionary Statements": {
+            "Disposal": "considerations",
+            "Hazards not otherwise classified (HNOC)": "(HNOC)"
+        }
+    },
+    "Composition/Information on Ingredients": {
+        "Component": "CAS No Weight %",
+        "CAS No": "7732-18-5",
+        "Weight %": "Water 7732-18-5 100"
+    },
+    "First Aid Measures": {
+        "Eye Contact": "No hazards which require special first aid measures.",
+        "Skin Contact": "No hazards which require special first aid measures.",
+        "Inhalation": "No hazards which require special first aid measures.",
+        "Ingestion": "No hazards which require special first aid measures."
+    },
+    "Fire Fighting Measures": {
+        "Flash Point": "Not applicable",
+        "Autoignition Temperature": "No information available",
+        "Explosion Limits": "Upper No data available"
+    },
+    "Handling and Storage": {
+        "Handling": "and storage",
+        "Storage": ". No special storage conditions required.  Incompatible Materials.  None known."
+    },
+    "Exposure Controls": {
+        "Engineering Measures": "None under normal use conditions.",
+        "Eye/face Protection": "Wear appropriate protective eyeglasses or chemical safety goggles as described by",
+        "Respiratory Protection": "No protective equipment is needed under normal use conditions."
+    },
+    "Physical and Chemical Properties": {
+        "Physical State": "Liquid",
+        "Appearance": "Clear, Colorless",
+        "Odor": "Odorless",
+        "pH": "7",
+        "Melting Point/Range": "0  \u00b0C  /  32  \u00b0F",
+        "Boiling Point/Range": "100  \u00b0C  /  212  \u00b0F",
+        "Vapor Pressure": "17.5 mmHg  @  20 \u00b0C",
+        "Solubility": "miscible"
+    },
+    "Stability and Reactivity": {
+        "Stability": "and reactivity",
+        "Incompatible Materials": ".  None known."
+    },
+    "Toxicological Information": {
+        "Acute Toxicity": "Product Information Product does not present an acute toxicity hazard based on known information"
+    },
+    "Ecological Information": {
+        "Ecotoxicity": "Contains no substances known to be hazardous to the environment or that are not degradable in waste water treatment plants."
+    },
+    "Disposal Considerations": {
+        "Waste Disposal Methods": "Chemical waste generators must determine whether a discarded chemical is classified as a"
+    },
+    "Transport Information": {
+        "DOT": "Not regulated"
+    }
+}

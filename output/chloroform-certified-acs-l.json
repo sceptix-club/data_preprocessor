@@ -1,0 +1,80 @@
+{
+    "Identification": {
+        "Product Name": "Chloroform, stabilized with ethanol",
+        "Cat No.": ": C298-1; C298-1EA; C298-1LC; C298-4; C298-20; C298-200;",
+        "Synonyms": "Formyl trichloride; Methane trichloride; Methenyl trichloride",
+        "Recommended Use": "Laboratory chemicals.",
+        "Uses advised against": ".",
+        "Company": {
+            "Name": "Fisher Scientific Company",
+            "Address": "One Reagent Lane\nFair Lawn, NJ 07410",
+            "Telephone": "(201) 796-7100"
+        }
+    },
+    "Emergency Contact": {
+        "Emergency Telephone Number": "CHEMTREC\u00d2, Inside the USA: 800-424-9300"
+    },
+    "Hazard Identification": {
+        "Classification": "This chemical is considered hazardous by the 2012 OSHA Hazard Communication Standard (29 CFR 1910.1200)",
+        "Signal Word": "Danger",
+        "Hazard Statements": "Harmful if swallowed",
+        "Precautionary Statements": {
+            "Prevention": "Obtain special instructions before use\nDo not handle until all safety precautions have been read and understood\nUse personal protective equipment as required\nWash face, hands and any exposed skin thoroughly after handling\nDo not eat, drink or smoke when using this product\nUse only outdoors or in a well-ventilated area\nWear eye/face protection\nDo not breathe dust/fume/gas/mist/vapors/spray\nResponse\nIF exposed or concerned: Get medical attention/advice\nInhalation\nIF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing\nSkin\nIF ON SKIN: Wash with plenty of soap and water\nIf skin irritation occurs: Get medical advice/attention\nTake off contaminated clothing and wash before reuse",
+            "Eyes": "IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing",
+            "Disposal": "Dispose of contents/container to an approved waste disposal plant",
+            "Hazards not otherwise classified (HNOC)": "(HNOC)"
+        }
+    },
+    "Composition/Information on Ingredients": {
+        "Component": "CAS No Weight %",
+        "CAS No": "67-66-3",
+        "Weight %": "Chloroform 67-66-3 >99"
+    },
+    "First Aid Measures": {
+        "General Advice": "Show this safety data sheet to the doctor in attendance. Immediate medical attention is",
+        "Eye Contact": "Rinse immediately with plenty of water, also under the eyelids, for at least 15 minutes. In",
+        "Skin Contact": "Wash off immediately with plenty of water for at least 15 minutes. Immediate medical",
+        "Inhalation": "Toxicity - Vapors Category 3",
+        "Ingestion": "IF SWALLOWED: Call a POISON CENTER or doctor/physician if you feel unwell"
+    },
+    "Fire Fighting Measures": {
+        "Flash Point": "No information available",
+        "Autoignition Temperature": "No information available",
+        "Explosion Limits": "Upper No data available"
+    },
+    "Handling and Storage": {
+        "Handling": "and storage",
+        "Storage": "Store locked up"
+    },
+    "Exposure Controls": {
+        "Engineering Measures": "Use only under a chemical fume hood. Ensure adequate ventilation, especially in confined",
+        "Eye/face Protection": "Wear appropriate protective eyeglasses or chemical safety goggles as described by",
+        "Respiratory Protection": "Follow the OSHA respirator regulations found in 29 CFR 1910.134 or European Standard"
+    },
+    "Physical and Chemical Properties": {
+        "Physical State": "Liquid",
+        "Appearance": "Colorless",
+        "Odor": "aromatic Slight sweet",
+        "pH": "No information available",
+        "Melting Point/Range": "-63  \u00b0C  /  -81.4  \u00b0F",
+        "Boiling Point/Range": "61  \u00b0C  /  141.8  142.7  \u00b0F",
+        "Vapor Pressure": "213 mbar  @  20 \u00b0C",
+        "Solubility": "Slightly soluble in water"
+    },
+    "Stability and Reactivity": {
+        "Stability": "and reactivity",
+        "Incompatible Materials": "."
+    },
+    "Toxicological Information": {
+        "Acute Toxicity": "Product Information"
+    },
+    "Ecological Information": {
+        "Ecotoxicity": "Do not empty into drains. Harmful to aquatic organisms, may cause long-term adverse effects in the aquatic environment. The"
+    },
+    "Disposal Considerations": {
+        "Waste Disposal Methods": "Chemical waste generators must determine whether a discarded chemical is classified as a"
+    },
+    "Transport Information": {
+        "DOT": "UN-No UN1888"
+    }
+}

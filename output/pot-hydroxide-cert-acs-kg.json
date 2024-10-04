@@ -1,0 +1,80 @@
+{
+    "Identification": {
+        "Product Name": "Potassium Hydroxide",
+        "Cat No.": ": P246-3; P250-1; P250-3; P250-10; P250-50; P250-500; P251-3; P251-50;",
+        "Synonyms": "Potassium hydrate; Lye; Caustic potash",
+        "Recommended Use": "Laboratory chemicals.",
+        "Uses advised against": "Food, drug, pesticide or biocidal product use.",
+        "Company": {
+            "Name": "Fisher Scientific Company",
+            "Address": "One Reagent Lane\nFair Lawn, NJ 07410",
+            "Telephone": "(201) 796-7100"
+        }
+    },
+    "Emergency Contact": {
+        "Emergency Telephone Number": "CHEMTREC\u00d2, Inside the USA: 800-424-9300"
+    },
+    "Hazard Identification": {
+        "Classification": "This chemical is considered hazardous by the 2012 OSHA Hazard Communication Standard (29 CFR 1910.1200)",
+        "Signal Word": "Danger",
+        "Hazard Statements": "______________________________________________________________________________________________",
+        "Precautionary Statements": {
+            "Prevention": "Wash face, hands and any exposed skin thoroughly after handling\nDo not eat, drink or smoke when using this product\nDo not breathe dust/fume/gas/mist/vapors/spray\nWear protective gloves/protective clothing/eye protection/face protection\nUse only outdoors or in a well-ventilated area\nKeep only in original container\nResponse\nImmediately call a POISON CENTER or doctor/physician\nInhalation\nIF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing\nSkin\nIF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower\nWash contaminated clothing before reuse",
+            "Eyes": "IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing",
+            "Disposal": "Dispose of contents/container to an approved waste disposal plant",
+            "Hazards not otherwise classified (HNOC)": "(HNOC)"
+        }
+    },
+    "Composition/Information on Ingredients": {
+        "Component": "CAS No Weight %",
+        "CAS No": "Weight %",
+        "Weight %": "Potassium hydroxide 1310-58-3 100.0"
+    },
+    "First Aid Measures": {
+        "General Advice": "Show this safety data sheet to the doctor in attendance. Immediate medical attention is",
+        "Eye Contact": "Rinse immediately with plenty of water, also under the eyelids, for at least 15 minutes.",
+        "Skin Contact": "Wash off immediately with soap and plenty of water while removing all contaminated",
+        "Inhalation": "IF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing",
+        "Ingestion": "Rinse mouth"
+    },
+    "Fire Fighting Measures": {
+        "Flash Point": "Not applicable",
+        "Autoignition Temperature": "No information available",
+        "Explosion Limits": "Upper No data available"
+    },
+    "Handling and Storage": {
+        "Handling": "and storage",
+        "Storage": "Store locked up"
+    },
+    "Exposure Controls": {
+        "Engineering Measures": "None under normal use conditions. Ensure that eyewash stations and safety showers are",
+        "Eye/face Protection": "Wear appropriate protective eyeglasses or chemical safety goggles as described by",
+        "Respiratory Protection": "No protective equipment is needed under normal use conditions."
+    },
+    "Physical and Chemical Properties": {
+        "Physical State": "Solid",
+        "Appearance": "Light yellow",
+        "Odor": "Odorless",
+        "pH": "13.5   (0.1M)",
+        "Melting Point/Range": "360  \u00b0C  /  680  \u00b0F",
+        "Boiling Point/Range": "1320  \u00b0C  /  2408  \u00b0F",
+        "Vapor Pressure": "No information available",
+        "Solubility": "Soluble in water"
+    },
+    "Stability and Reactivity": {
+        "Stability": "and reactivity",
+        "Incompatible Materials": ".  Water. Metals. Acids."
+    },
+    "Toxicological Information": {
+        "Acute Toxicity": "Product Information"
+    },
+    "Ecological Information": {
+        "Ecotoxicity": "Do not empty into drains. Large amounts will affect pH and harm aquatic organisms. Contains a substance which is:. Harmful to"
+    },
+    "Disposal Considerations": {
+        "Waste Disposal Methods": "Chemical waste generators must determine whether a discarded chemical is classified as a"
+    },
+    "Transport Information": {
+        "DOT": "UN-No UN1813"
+    }
+}
