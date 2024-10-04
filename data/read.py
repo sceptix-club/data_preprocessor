@@ -1,3 +1,5 @@
+#reading contents of pdf using pypdf
+
 from pypdf import PdfReader
 
 reader = PdfReader("C:/Users/HP/OneDrive/Desktop/data_preprocessor/data/acetone-acs-l (1).pdf")
@@ -15,3 +17,5 @@ for i in range(len(reader.pages)):
   page = reader.pages[i]
   print(page.extract_text())
   
+
+

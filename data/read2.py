@@ -1,3 +1,5 @@
+#reading contents of the pdf using pdfplumber
+
 import pdfplumber
 
 # Use raw string format to avoid issues with backslashes
