@@ -1,0 +1,9 @@
+transformers==4.44.2
+datasets==3.0.1
+Pillow==10.4.0
+numpy==1.26.4
+evaluate==0.4.3
+torch==2.4.1
+pytesseract==0.3.13
+jupyter==1.1.1
+seqeval==0.0.12
