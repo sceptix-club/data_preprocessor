@@ -1,0 +1,38 @@
+{
+    "SafetyDataSheet": {
+        "Identification": {
+            "ProductName": "Acetone",
+            "Cat No.": "A9-4",
+            "CASNo": "67-64-1",
+            "RecommendedUse": "Laboratory chemicals.",
+            "Supplier": {
+                "Name": "2. Hazard(s) identification",
+                "Address": "Classification Company ",
+                "Telephone": "Fisher Scientific Company"
+            }
+        },
+        "HazardIdentification": {
+            "SignalWord": "Danger",
+            "HazardStatements": [
+                "Highly flammable liquid and vapor"
+            ],
+            "PrecautionaryStatements": [
+                "Prevention"
+            ]
+        },
+        "Composition/Information on Ingredients": {},
+        "First-aid measures": {},
+        "Fire-fighting measures": {},
+        "Accidental release measures": {},
+        "Handling and storage": {},
+        "Exposure controls/personal protection": {},
+        "Physical and chemical properties": {},
+        "Stability and reactivity": {},
+        "Toxicological information": {},
+        "Ecological information": {},
+        "Disposal considerations": {},
+        "Transport information": {},
+        "Regulatory information": {},
+        "Other information": {}
+    }
+}
